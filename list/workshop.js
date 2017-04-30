@@ -3,6 +3,17 @@
 // ------------------------------------
 
 var p = new Workshop(
+	"S. Viridi, B. Yuliarto",
+	"Journal Writing",
+	"Bandung, Indonesia",
+	"Sekolah Ilmiah Pascasarja 2",
+	"29 April",
+	"2017",
+	"http://dx.doi.org/10.13140/RG.2.2.12151.83366"
+);
+pubs.push(p);
+
+var p = new Workshop(
 	"M. A. Rifai, S. S. Achmadi, H. Gunawan, S. Viridi, D. Amalia, V. L. Urfa",
 	"Laporan Komisi Penyelarasan Istilah Bidang Ilmu Dasar",
 	"Serpong, Indonesia",
@@ -13,6 +24,16 @@ var p = new Workshop(
 );
 pubs.push(p);
 
+var p = new Workshop(
+	"A. N. Budiman, M. Kholil, S. Viridi",
+	"Peran Sains dan Teknologi dalam Merealisasikan Perintah Agama dalam Kehidupan Sehari-hari",
+	"Bandung, Indonesia",
+	"Kunjungan dari Pondok Modern Tazakka, Batang, Jawa Tengah ke Masjid Salman ITB",
+	"7 Maret",
+	"2017",
+	"http://dx.doi.org/10.13140/RG.2.2.16031.56482"
+);
+pubs.push(p);
 
 var p = new Workshop(
 	"S. Viridi",
