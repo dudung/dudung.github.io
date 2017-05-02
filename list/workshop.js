@@ -36,6 +36,17 @@ var p = new Workshop(
 pubs.push(p);
 
 var p = new Workshop(
+	"S. Viridi, A. Suroso, L. Baradja",
+	"Sekilas Termodinamika (Tingkat SMU)",
+	"Bandung, Indonesia",
+	"Training Fisika ISMOC",
+	"1-6 Agustus",
+	"2016",
+	"http://dx.doi.org/10.13140/RG.2.2.15039.71848"
+);
+pubs.push(p);
+
+var p = new Workshop(
 	"S. Viridi",
 	"Beberapa Konsep Fisika Dasar untuk Astronomi dan Contoh-contoh Soalnya",
 	"Bandung, Indonesia",
