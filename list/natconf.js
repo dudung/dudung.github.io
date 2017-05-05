@@ -3,6 +3,19 @@
 // ------------------------------------
 
 var p = new Proceeding(
+	"F. F. Haryani, R. Amaliah, D. Fitrasari, S. Viridi",
+	"Konsep Fisika dalam Gerak Permainan Roket Air",
+	"Prosiding Seminar Nasional Pendidikan Sains (SNPS 2016)",
+	"M. Masykuri, B. A. Prayitno",
+	"Surakarta, Indonesia",
+	"22 Oktober",
+	"2016",
+	"245-254",
+	"http://jurnal.fkip.uns.ac.id/index.php/snps/article/view/9843"
+);
+pubs.push(p);
+
+var p = new Proceeding(
 	"R. Sulistyowati, S. Viridi, R. Kurniadi, W. Srigutomo",
 	"Korelasi Ketebalan Awan dan Konsentrasi Aerosol pada Berbagai Kejadian Hujan Berdasarkan Perhitungan Model Koren-Feingold (KF)",
 	"Prosiding Seminar Nasional Sains Atmosfer (SNSA 2016)",
