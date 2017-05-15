@@ -1,0 +1,29 @@
+/*
+	style.css
+	
+	Sparisoma Viridi | dudung@gmail.com
+	
+	20170515
+	Start this style for Grainf project.
+*/
+
+body {
+}
+
+h1 {
+	color: #e84;
+}
+
+h2 {
+	color: #48e;
+}
+
+a {
+	color: #f44;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #272;
+	text-decoration: underline;
+}
