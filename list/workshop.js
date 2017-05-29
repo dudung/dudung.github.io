@@ -48,6 +48,18 @@ pubs.push(p);
 
 var p = new Workshop(
 	"S. Viridi",
+	"Tujuh Setengah Hari Fisika",
+	"Surabaya, Indonesia",
+	"Quantum Xcellensia",
+	"Mei",
+	"2016",
+	"https://de.scribd.com/doc/313416567/Tujuh-Setengah-Hari-Fisika"
+);
+pubs.push(p);
+
+
+var p = new Workshop(
+	"S. Viridi",
 	"Beberapa Konsep Fisika Dasar untuk Astronomi dan Contoh-contoh Soalnya",
 	"Bandung, Indonesia",
 	"Pembinaan Khusus Tahap I: IOAA 2014",
