@@ -3,6 +3,30 @@
 // ------------------------------------
 
 var p = new IOPConfSeries(
+	"S. Viridi, F. D. E. Latief, S. N. Khotimah",
+	"Construction of Maximum Tortuosity of Single Fluid Path in Grid-based 2-d System (5×20) and 3-d system (5×20×3) for Certain Value of Porosity",
+	"Journal of Physics: Conference Series",
+	"877",
+	"1",
+	"012044",
+	"2017",
+	"http://dx.doi.org/10.1088/1742-6596/877/1/012044"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"T. Untoro, S. Viridi, Suprijanto, E Ekawati",
+	"Modelling of Mechanical Coupling for Piezoelectric Energy Harvester Adapted to Low-Frequency Vibration",
+	"Journal of Physics: Conference Series",
+	"877",
+	"1",
+	"012042",
+	"2017",
+	"http://dx.doi.org/10.1088/1742-6596/877/1/012042"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
 	"N. A. Aprianti, S. Viridi, Z. Su'ud, K. Morita",
 	"Particle-based Simulation of Rayleigh-Taylor Instability",
 	"Journal of Physics: Conference Series",
