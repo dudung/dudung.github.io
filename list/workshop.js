@@ -3,7 +3,7 @@
 // ------------------------------------
 
 var p = new Workshop(
-	"M. A. Rifai, S. S. Achmadi, H. Gunawan, S. Viridi, D. Amalia, V. L. Urfa",
+	"M. A. Rifai, S. S. Achmadi, H. Gunawan, S. Viridi, A. G. Ruskhan, D. Amalia, V. L. Urfa, N. Aqmarina",
 	"Laporan Komisi Penyelarasan Istilah Bidang Ilmu Dasar",
 	"Sidang Komisi Istilah II 2017",
 	"Jakarta, Indonesia",
