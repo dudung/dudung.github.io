@@ -50,9 +50,9 @@ pubs.push(p);
 var p = new LectureNote(
 	"S. Viridi, S. N. Khotimah, Suprijadi",
 	"Komputasi Fisika 2: Simulasi dan Visualisasi Fisika dengan C++ dan Gnuplot",
+	"Departemen Fisika, FMIPA, Institut Teknologi Bandung",
 	"May",
 	"2016",
-	"Departemen Fisika, FMIPA, Institut Teknologi Bandung",
 	"http://dx.doi.org/10.13140/RG.2.2.31633.22880"
 );
 pubs.push(p);
