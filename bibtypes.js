@@ -8,6 +8,8 @@
 		bibtypes.js
 	20160918
 		Add KnEEng similar to IOPConfSeries variable type.
+	20170821
+		Add lecture note.
 */
 
 function createBibType(values) {
@@ -32,6 +34,7 @@ var viXra = createBibType("author|title|number|category|monthday|year");
 var Workshop = createBibType("author|title|workshop|place|daymonth|year|url");
 var IOPConfSeries = createBibType("author|title|journal|volume|number|page|year|url");
 var KnEEng = createBibType("author|title|journal|volume|number|page|year|url");
+var LectureNote = createBibType("author|title|publisher|version|year|url");
 
 function stringBibItem(item) {
 	if(item instanceof Journal) {
@@ -175,6 +178,18 @@ function stringBibItem(item) {
 		"(" + item.number + "), " +
 		item.page + " " +
 		"(" + item.year + a2 + ").";
+	} else if(item instanceof LectureNote) {
+		if(item.url != "") {
+			var a1 = "<a href='" + item.url + "'>";
+			var a2 = "</a>";
+		} else {
+			var a1 = "";
+			var a2 = "";
+		}
+		var string = item.author + ", " +
+		"&quot;" + item.title + "&quot;, " +
+		a1 + item.publisher + ", Version " + item.version +
+		", " + item.year + a2 + ".";
 	}
 	return string;
 }
