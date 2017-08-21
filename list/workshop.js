@@ -5,8 +5,8 @@
 var p = new Workshop(
 	"S. Viridi, B. Yuliarto",
 	"Journal Writing",
-	"Bandung, Indonesia",
 	"Sekolah Ilmiah Pascasarja 2",
+	"Bandung, Indonesia",
 	"29 April",
 	"2017",
 	"http://dx.doi.org/10.13140/RG.2.2.12151.83366"
@@ -16,8 +16,8 @@ pubs.push(p);
 var p = new Workshop(
 	"M. A. Rifai, S. S. Achmadi, H. Gunawan, S. Viridi, D. Amalia, V. L. Urfa",
 	"Laporan Komisi Penyelarasan Istilah Bidang Ilmu Dasar",
-	"Serpong, Indonesia",
 	"Sidang Komisi Istilah I 2017",
+	"Serpong, Indonesia",
 	"20-24 Maret",
 	"2017",
 	"http://dx.doi.org/10.13140/RG.2.2.14329.26720"
@@ -27,8 +27,8 @@ pubs.push(p);
 var p = new Workshop(
 	"A. N. Budiman, M. Kholil, S. Viridi",
 	"Peran Sains dan Teknologi dalam Merealisasikan Perintah Agama dalam Kehidupan Sehari-hari",
-	"Bandung, Indonesia",
 	"Kunjungan dari Pondok Modern Tazakka, Batang, Jawa Tengah ke Masjid Salman ITB",
+	"Bandung, Indonesia",
 	"7 Maret",
 	"2017",
 	"http://dx.doi.org/10.13140/RG.2.2.16031.56482"
@@ -38,8 +38,8 @@ pubs.push(p);
 var p = new Workshop(
 	"S. Viridi, A. Suroso, L. Baradja",
 	"Sekilas Termodinamika (Tingkat SMU)",
-	"Bandung, Indonesia",
 	"Training Fisika ISMOC",
+	"Bandung, Indonesia",
 	"1-6 Agustus",
 	"2016",
 	"http://dx.doi.org/10.13140/RG.2.2.15039.71848"
@@ -49,8 +49,8 @@ pubs.push(p);
 var p = new Workshop(
 	"S. Viridi",
 	"Tujuh Setengah Hari Fisika",
-	"Surabaya, Indonesia",
 	"Quantum Xcellensia",
+	"Surabaya, Indonesia",
 	"Mei",
 	"2016",
 	"https://de.scribd.com/doc/313416567/Tujuh-Setengah-Hari-Fisika"
@@ -61,8 +61,8 @@ pubs.push(p);
 var p = new Workshop(
 	"S. Viridi",
 	"Beberapa Konsep Fisika Dasar untuk Astronomi dan Contoh-contoh Soalnya",
-	"Bandung, Indonesia",
 	"Pembinaan Khusus Tahap I: IOAA 2014",
+	"Bandung, Indonesia",
 	"27 Oktober-23 November",
 	"2014",
 	"http://dx.doi.org/10.13140/2.1.4436.7049"
@@ -72,8 +72,8 @@ pubs.push(p);
 var p = new Workshop(
 	"S. Viridi, M. M. Munir, Warya",
 	"Implementasi Pengenalan Konsep Fisika dan Eksperimennya dalam Kompetisi Sains untuk Memastikan Identifikasi Anak Cerdas Istimewa Berbakat Istimewa",
-	"Kotabaru Parahyangan, Bandung, Indonesia",
 	"Science Camp",
+	"Kotabaru Parahyangan, Bandung, Indonesia",
 	"14-16 Oktober",
 	"2014",
 	"http://dx.doi.org/10.13140/2.1.1624.1445"
