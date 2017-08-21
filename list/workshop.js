@@ -3,6 +3,17 @@
 // ------------------------------------
 
 var p = new Workshop(
+	"M. A. Rifai, S. S. Achmadi, H. Gunawan, S. Viridi, D. Amalia, V. L. Urfa",
+	"Laporan Komisi Penyelarasan Istilah Bidang Ilmu Dasar",
+	"Sidang Komisi Istilah II 2017",
+	"Jakarta, Indonesia",
+	"10-14 Juli",
+	"2017",
+	"http://dx.doi.org/10.13140/RG.2.2.33753.62566"
+);
+pubs.push(p);
+
+var p = new Workshop(
 	"S. Viridi, B. Yuliarto",
 	"Journal Writing",
 	"Sekolah Ilmiah Pascasarja 2",
