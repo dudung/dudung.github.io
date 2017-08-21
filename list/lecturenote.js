@@ -63,7 +63,7 @@ var p = new LectureNote(
 	"Departemen Fisika, FMIPA, Institut Teknologi Bandung",
 	"Dec",
 	"2015",
-	"http://dx.doi.org/"
+	"https://www.researchgate.net/publication/317740832_Komputasi_Fisika_1_Simulasi_dan_Visualisasi_Fisika_dengan_C_C_Gnuplot_dan_OpenGL"
 );
 pubs.push(p);
 
