@@ -2,6 +2,19 @@
 // National Journal
 // ------------------------------------
 
+// Add on 20170824.0533+09
+var p = new Journal(
+	"N. Amalia, M. Rokhmat, S. Sutisna, S. Viridi, M. Abdullah",
+	"Analisis Regresi Sifat Tanah Terhadap Rebound Tiang Pancang",
+	"Jurnal Matematika &amp; Sains",
+	"22",
+	"1",
+	"9-13",
+	"2017",
+	"https://jms.fmipa.itb.ac.id/ojs_3.0.2/index.php/jms/article/view/726"
+);
+pubs.push(p);
+
 var p = new Journal(
 	"S. Viridi, B. Dermawan",
 	"Tumbukan Tak-Elastik Partikel sebagai Model Terbentuknya Asteroid",
