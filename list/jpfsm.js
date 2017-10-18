@@ -3,6 +3,18 @@
 // ------------------------------------
 
 var p = new Journal(
+	"S. Viridi, W. Haryokusuma, W. Yusman, T. Ariadji",
+	"Pemodelan Tetesan Fluida Saluran Mikro dengan Pendesakan",
+	"Jurnal Pengajaran Fisika Sekolah Menengah",
+	"8",
+	"1",
+	"15-22",
+	"2016",
+	"http://bit.ly/jpfsmx0801015"
+);
+pubs.push(p);
+
+var p = new Journal(
 	"E. Lailiyah, Hernawati, Novitrian, S. Viridi",
 	"Perbandingan Efektivitas Metode Simulasi JavaScript Terhadap Demonstrasi dan Ceramah dalam Meningkatkan Kemampuan Siswa untuk Materi Pemuaian dan Wujud Zat",
 	"Jurnal Pengajaran Fisika Sekolah Menengah",
