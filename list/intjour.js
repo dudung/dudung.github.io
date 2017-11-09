@@ -3,6 +3,18 @@
 // ------------------------------------
 
 var p = new Journal(
+	"N Amalia, S. Viridi, M. Abdullah",
+	"Thickness Effect on Fluctuation of Electron States in Thin Film and Implications for Lattice Constant Change Due to Size Reduction",
+	"Journal of Engineering and Technological Sciences",
+	"49",
+	"5",
+	"(in press)",
+	"2017",
+	"http://journals.itb.ac.id/index.php/jmfs/pages/view/3329"
+);
+pubs.push(p);
+
+var p = new Journal(
 	"S. N. Khotimah, S. Viridi, Widayani",
 	"Influence of Initial Velocity on Trajectories of a Charged Particle in Uniform Crossed Electric and Magnetic Fields",
 	"European Journal of Physics",
