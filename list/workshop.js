@@ -2,6 +2,30 @@
 // Workshop
 // ------------------------------------
 
+// Add on 20171213.0653+
+var p = new Workshop(
+	"S. Viridi, J. Halid, T. Kristianti, L. R. Prastika",
+	"Pembelajaran Gelombang, Bunyi, dan Cahaya Berbantuan Office Suites dan Penjelajah Internet",
+	"Pelatihan Pendalaman Materi Bidang Fisika MA/SMA/SMK",
+	"Bandung, Indonesia",
+	"5-8 Desember",
+	"2017",
+	"http://dx.doi.org/10.17605/OSF.IO/MHXVC"
+);
+pubs.push(p);
+
+var p = new Workshop(
+	"S. Viridi, J. Halid, T. Kristianti, R. Setiawan",
+	"Penelitian Guru untuk Mempersiapkan Generasi Z di Indonesia",
+	"Seminar Penelitian Bidang IPA",
+	"Bandung, Indonesia",
+	"7-8 November",
+	"2017",
+	"http://dx.doi.org/10.17605/OSF.IO/9TRA7"
+);
+pubs.push(p);
+
+
 var p = new Workshop(
 	"M. A. Rifai, S. S. Achmadi, H. Gunawan, S. Viridi, A. G. Ruskhan, D. Amalia, V. L. Urfa, N. Aqmarina",
 	"Laporan Komisi Penyelarasan Istilah Bidang Ilmu Dasar",
