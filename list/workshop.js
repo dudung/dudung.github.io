@@ -25,7 +25,7 @@ var p = new Workshop(
 );
 pubs.push(p);
 
-
+// ---
 var p = new Workshop(
 	"M. A. Rifai, S. S. Achmadi, H. Gunawan, S. Viridi, A. G. Ruskhan, D. Amalia, V. L. Urfa, N. Aqmarina",
 	"Laporan Komisi Penyelarasan Istilah Bidang Ilmu Dasar",
