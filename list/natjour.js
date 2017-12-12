@@ -2,6 +2,19 @@
 // National Journal
 // ------------------------------------
 
+// Add on 20171212.1816+07
+var p = new Journal(
+	"S. Viridi, B. Dermawan",
+	"Distribusi Spasial Densitas Cakram Berukuran Sama dalam Pemodelan Pembentukan Asteroid"
+	"Spektra: Jurnal Fisika dan Aplikasinya",
+	"2",
+	"2",
+	"133-140",
+	"2017",
+	"http://dx.doi.org/10.21009/SPEKTRA.022.07"
+);
+pubs.push(p);
+
 // Add on 20170824.0533+09
 var p = new Journal(
 	"N. Amalia, M. Rokhmat, S. Sutisna, S. Viridi, M. Abdullah",
