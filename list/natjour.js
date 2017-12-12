@@ -5,7 +5,7 @@
 // Add on 20171212.1816+07
 var p = new Journal(
 	"S. Viridi, B. Dermawan",
-	"Distribusi Spasial Densitas Cakram Berukuran Sama dalam Pemodelan Pembentukan Asteroid"
+	"Distribusi Spasial Densitas Cakram Berukuran Sama dalam Pemodelan Pembentukan Asteroid",
 	"Spektra: Jurnal Fisika dan Aplikasinya",
 	"2",
 	"2",
