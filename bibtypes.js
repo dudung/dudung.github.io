@@ -8,8 +8,8 @@
 		bibtypes.js
 	20160918
 		Add KnEEng similar to IOPConfSeries variable type.
-	20170821
-		Add lecture note.
+	20171213
+		Add INA-Rxiv similar to Vixra or arXiv
 */
 
 function createBibType(values) {
@@ -34,7 +34,7 @@ var viXra = createBibType("author|title|number|category|monthday|year");
 var Workshop = createBibType("author|title|workshop|place|daymonth|year|url");
 var IOPConfSeries = createBibType("author|title|journal|volume|number|page|year|url");
 var KnEEng = createBibType("author|title|journal|volume|number|page|year|url");
-var LectureNote = createBibType("author|title|publisher|version|year|url");
+var INARxiv = createBibType("author|title|monthday|year|url");
 
 function stringBibItem(item) {
 	if(item instanceof Journal) {
@@ -178,7 +178,7 @@ function stringBibItem(item) {
 		"(" + item.number + "), " +
 		item.page + " " +
 		"(" + item.year + a2 + ").";
-	} else if(item instanceof LectureNote) {
+	} else if(item instanceof INARxiv) {
 		if(item.url != "") {
 			var a1 = "<a href='" + item.url + "'>";
 			var a2 = "</a>";
@@ -188,8 +188,8 @@ function stringBibItem(item) {
 		}
 		var string = item.author + ", " +
 		"&quot;" + item.title + "&quot;, " +
-		a1 + item.publisher + ", Version " + item.version +
-		", " + item.year + a2 + ".";
+		a1 + "INA-Rxiv, " + item.monthday + " " +
+		item.year + a2 + ".";
 	}
 	return string;
 }
