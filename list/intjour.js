@@ -5,12 +5,12 @@
 var p = new Journal(
 	"N Amalia, S. Viridi, M. Abdullah",
 	"Thickness Effect on Fluctuation of Electron States in Thin Film and Implications for Lattice Constant Change Due to Size Reduction",
-	"Journal of Engineering and Technological Sciences",
+	"Journal of Mathematical and Fundamental Sciences",
 	"49",
-	"5",
-	"(in press)",
+	"3",
+	"225-243",
 	"2017",
-	"http://journals.itb.ac.id/index.php/jmfs/pages/view/3329"
+	"http://dx.doi.org/10.5614/j.math.fund.sci.2017.49.3.2"
 );
 pubs.push(p);
 
