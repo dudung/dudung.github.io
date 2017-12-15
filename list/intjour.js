@@ -10,7 +10,7 @@ var p = new Journal(
 	"49",
 	"5",
 	"(accepted, revising)",
-	"2017,
+	"2017",
 	"http://journals.itb.ac.id/index.php/jets/pages/view/3367"
 );
 pubs.push(p);
