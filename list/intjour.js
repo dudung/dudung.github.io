@@ -2,8 +2,22 @@
 // International Journal
 // ------------------------------------
 
+// Added on 20171215
 var p = new Journal(
-	"N Amalia, S. Viridi, M. Abdullah",
+	"N. Amalia, A. Asri, M. Rokhmat, Sutisna, S. Viridi, M. Abdullah",
+	"The Effect of TiO2 Coating on Pile Penetration Depth in Clay",
+	"Journal of Engineering and Technological Sciences",
+	"49",
+	"5",
+	"(accepted, revising)",
+	"2017,
+	"http://journals.itb.ac.id/index.php/jets/pages/view/3367"
+);
+pubs.push(p);
+
+// Corrected on 20171215
+var p = new Journal(
+	"N. Amalia, S. Viridi, M. Abdullah",
 	"Thickness Effect on Fluctuation of Electron States in Thin Film and Implications for Lattice Constant Change Due to Size Reduction",
 	"Journal of Mathematical and Fundamental Sciences",
 	"49",
