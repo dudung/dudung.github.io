@@ -2,6 +2,19 @@
 // International Journal
 // ------------------------------------
 
+// Added on 20180214
+var p = new Journal(
+	"S. N. Khotimah, S. Viridi, Widayani, Khairurrijal",
+	"Influence of Initial Velocity on Trajectories of a Charged Particle in Uniform parallel Electric and Magnetic Fields",
+	"The Online Journal of Science and Technology",
+	"8",
+	"2",
+	"(accepted)",
+	"2018",
+	"http://www.tojsat.net/?pid=showissue&volume=8&issue=2"
+);
+pubs.push(p);
+
 // Added on 20171215, corrected on 20180214
 var p = new Journal(
 	"N. Amalia, A. Asri, M. Rokhmat, Sutisna, S. Viridi, M. Abdullah",
