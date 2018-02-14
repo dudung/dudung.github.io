@@ -2,16 +2,16 @@
 // International Journal
 // ------------------------------------
 
-// Added on 20171215
+// Added on 20171215, corrected on 20180214
 var p = new Journal(
 	"N. Amalia, A. Asri, M. Rokhmat, Sutisna, S. Viridi, M. Abdullah",
 	"The Effect of TiO2 Coating on Pile Penetration Depth in Clay",
 	"Journal of Engineering and Technological Sciences",
 	"49",
 	"5",
-	"(accepted, revising)",
+	"639-656",
 	"2017",
-	"http://journals.itb.ac.id/index.php/jets/pages/view/3367"
+	"http://dx.doi.org/10.5614/j.eng.technol.sci.2017.49.5.6"
 );
 pubs.push(p);
 
