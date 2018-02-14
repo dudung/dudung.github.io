@@ -2,6 +2,19 @@
 // National Journal
 // ------------------------------------
 
+// Add on 20180214
+var p = new Journal(
+	"Khairil Anwar, Dadi Rusdiana, Ida Kaniawati, Sparisoma Viridi",
+	"Profil Pembelajaran dan Pengajaran Fisika (Getaran-Gelombang) yang Sesuai Abad 21",
+	"Paedagoria",
+	"8",
+	"2",
+	"16-23",
+	"2017",
+	"http://journal.ummat.ac.id/index.php/paedagoria/article/view/62"
+);
+pubs.push(p);
+
 // Add on 20171212.1816+07
 var p = new Journal(
 	"S. Viridi, B. Dermawan",
