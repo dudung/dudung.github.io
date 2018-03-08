@@ -3,6 +3,18 @@
 // ------------------------------------
 
 var p = new AIPProceeding(
+	"Sparisoma Viridi, Nuning Nuraini, Monica Stephanie, Ainur Rifqi, Dina Christina, Elsa Thania, Erland Sihite",
+	"Flagellum motion in 2-D: Work rate and efficiency of the non-sinusoidal approach",
+	"Symposium on Biomathematics-2016",
+	"P. van Heijster, M. Quam, D. Handayani",
+	"1937,",
+	"2018",
+	"020022",
+	"https://doi.org/10.1063/1.5026094"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
 	"N. Nuraini, S. Viridi, F. Haryanto, S. N. Khotimah",
 	"Molecular Dynamics Simulation of Microorganism Motion in Fluid Based on Granular Model in the Case of Multiple Simple Push-Pull filaments",
 	"Symposium on Biomathematics-2016",
