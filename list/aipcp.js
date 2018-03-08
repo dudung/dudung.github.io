@@ -7,7 +7,7 @@ var p = new AIPProceeding(
 	"Flagellum motion in 2-D: Work rate and efficiency of the non-sinusoidal approach",
 	"Symposium on Biomathematics-2017",
 	"P. van Heijster, M. Quam, D. Handayani",
-	"1937,",
+	"1937",
 	"2018",
 	"020022",
 	"https://doi.org/10.1063/1.5026094"
