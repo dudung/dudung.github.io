@@ -5,7 +5,7 @@
 var p = new AIPProceeding(
 	"Sparisoma Viridi, Nuning Nuraini, Monica Stephanie, Ainur Rifqi, Dina Christina, Elsa Thania, Erland Sihite",
 	"Flagellum motion in 2-D: Work rate and efficiency of the non-sinusoidal approach",
-	"Symposium on Biomathematics-2016",
+	"Symposium on Biomathematics-2017",
 	"P. van Heijster, M. Quam, D. Handayani",
 	"1937,",
 	"2018",
