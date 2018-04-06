@@ -9,9 +9,9 @@ var p = new Journal(
 	"The Online Journal of Science and Technology",
 	"8",
 	"2",
-	"(accepted)",
+	"89-95",
 	"2018",
-	"http://www.tojsat.net/?pid=showissue&volume=8&issue=2"
+	"http://www.tojsat.net/journals/tojsat/articles/v08i02/v08i02-15.pdf"
 );
 pubs.push(p);
 
@@ -147,7 +147,7 @@ var p = new Journal(
 	"1",
 	"55-62",
 	"2015",
-	"http://www.tojsat.net/index.php/tojsat/article/view/195"
+	"http://www.tojsat.net/journals/tojsat/articles/v05i01/v05i01-07.pdf"
 );
 pubs.push(p);
 
