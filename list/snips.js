@@ -2,6 +2,62 @@
 // SNIPS
 // ------------------------------------
 
+//----------- 20180406
+
+var p = new Proceeding(
+	"Pemanfaatan Kamera Handphone dan Aplikasi Inkscape untuk Pengamatan Proses Pelelehan Lilin dan Parafin",
+	"N. I. Romli, Erlina, P. M. Widartiningsih, S. Viridi",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
+	"T. D. K. Wungu <i>et al</i>.",
+	"Bandung, Indonesia",
+	"26-27 Juli",
+	"2017",
+	"439-443",
+	"http://snips2017.interconf.org/kfz/proceedings/148"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Pemodelan Gaya Casimir dalam Sistem Satu-Dimensi Granular Gravitasi-Diri dengan Operator Tukar",
+	"S. Viridi, S. N. Khotimah, P. M. Widartiningsih",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
+	"T. D. K. Wungu <i>et al</i>.",
+	"Bandung, Indonesia",
+	"26-27 Juli",
+	"2017",
+	"216-219",
+	"http://snips2017.interconf.org/kfz/proceedings/123"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Rancang Perangkat Lunak Rekonstruksi Gambar 2-Dimensi Dari Data Transmisi 4 Sudut Penyinaran",
+	"R. Stiawan, S. Viridi",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
+	"T. D. K. Wungu <i>et al</i>.",
+	"Bandung, Indonesia",
+	"26-27 Juli",
+	"2017",
+	"178-183",
+	"http://snips2017.interconf.org/kfz/proceedings/11"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Rancang Bangun Penghasil Medan Magnet Eksternal dalam Pengamatan Gerak Granular Berbahan Logam Berdipol Magnet",
+	"B. Y. Setiadi, S. Viridi, M. Budiman",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
+	"T. D. K. Wungu <i>et al</i>.",
+	"Bandung, Indonesia",
+	"26-27 Juli",
+	"2017",
+	"82-86",
+	"http://snips2017.interconf.org/kfz/proceedings/125"
+);
+pubs.push(p);
+
+//-----------
+
 var p = new Proceeding(
 	"F. Anggraini Purnama, S. Viridi",
 	"Pencarian Tempat Parkir di Sekeliling Kampus ITB Ganesha secara Manual dan Berbantuan Algoritma dalam suatu Model Aplikasi Berbasis TIK",
