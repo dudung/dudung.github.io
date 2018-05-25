@@ -2,6 +2,46 @@
 // National Conference
 // ------------------------------------
 
+// Add on 20180525 for three items
+var p = new Proceeding(
+	"F. W. Ramadhan, S. Viridi, F. D. E. Latief",
+	"Korelasi antara Tortuositas Maksimum dan Porositas Medium Berpori dengan Model Material Berbentuk Kubus",
+	"Prosiding Quantum #25, Seminar Nasional Fisika dan Pendidikan Fisika",
+	"R. Resmiyanto <i>et al</i>.",
+	"Yogyakarta, Indonesia",
+	"27 Januari",
+	"2018",
+	"705-712",
+	"http://seminar.uad.ac.id/index.php/quantum/article/view/344"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"A. N. F. Rudiawan, M. I. Arrafi’i, S. Viridi, W. Wijaksana",
+	"Optimasi dan Simulasi Kualitas Bahan pada Mesin Kertas dengan Menggunakan Metode Neural Network",
+	"Prosiding Quantum #25, Seminar Nasional Fisika dan Pendidikan Fisika",
+	"R. Resmiyanto <i>et al</i>.",
+	"Yogyakarta, Indonesia",
+	"27 Januari",
+	"2018",
+	"605-609",
+	"http://seminar.uad.ac.id/index.php/quantum/article/view/323"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"S. Humairo, R. B. Astro, D. Amirudin, D. H. Mufida, S. Viridi",
+	"Analisis Koefisien Gesek Statis dan Kinetis Berbagai Pasangan Permukaan Bahan pada Bidang Miring Menggunakan Aplikasi Analisis Video Tracker",
+	"Prosiding Quantum #25, Seminar Nasional Fisika dan Pendidikan Fisika",
+	"R. Resmiyanto <i>et al</i>.",
+	"Yogyakarta, Indonesia",
+	"27 Januari",
+	"2018",
+	"132-138",
+	"http://seminar.uad.ac.id/index.php/quantum/article/view/247"
+);
+pubs.push(p);
+
 var p = new Proceeding(
 	"F. F. Haryani, R. Amaliah, D. Fitrasari, S. Viridi",
 	"Konsep Fisika dalam Gerak Permainan Roket Air",
