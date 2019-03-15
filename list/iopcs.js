@@ -10,7 +10,7 @@ var p = new IOPConfSeries(
 	"434",
 	"1",
 	"012221",
-	"2018",
+	"2019",
 	"https://doi.org/10.1088/1757-899X/395/1/012024"
 );
 pubs.push(p);
