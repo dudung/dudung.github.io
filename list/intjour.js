@@ -5,7 +5,7 @@
 // Added on 20190315
 var p = new Journal(
 	"N. Amalia, E. Yuliza, D. O. Margaretta, F. D. Utami, N. Surtiyeni, S. Viridi, M. Abdullah",
-	""Erratum: 'A Novel Method for Characterizing Temperature-Dependent Elastic Modulus and Glass Transition Temperature by Processing the Images of Bending Cantilever Slender Beams at Different Temperatures' [AIP Advances (2018) 8 (115201) DOI: 10.1063/1.5058689]""
+	"Erratum: 'A Novel Method for Characterizing Temperature-Dependent Elastic Modulus and Glass Transition Temperature by Processing the Images of Bending Cantilever Slender Beams at Different Temperatures' [AIP Advances (2018) 8 (115201) DOI: 10.1063/1.5058689]",
 	"AIP Advances",
 	"9",
 	"1",
