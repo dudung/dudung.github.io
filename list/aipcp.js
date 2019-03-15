@@ -2,6 +2,20 @@
 // AIP Conference Proceedings
 // ------------------------------------
 
+// Add on 20190315
+var p = new AIPProceeding(
+	"K. Anwar, D. Rusdiana, I. Kaniawati, S. Viridi",
+	"Construction of Basic Concepts of Waves through a 'gambo (Traditional Musical Instrument)",
+	"8th Annual Basic Science International Conference: Coverage of Basic Sciences toward the World's Sustainability Challanges, (BaSIC)-2018",
+	"C. Karim, R. Azrianingsih, M. A. Pamungkas, Y. D. Jatmiko, A. Safitri",
+	"2021",
+	"2018",
+	"040003",
+	"https://doi.org/10.1063/1.5062747"
+);
+pubs.push(p);
+
+// Before 20190315
 var p = new AIPProceeding(
 	"Sparisoma Viridi, Nuning Nuraini, Monica Stephanie, Ainur Rifqi, Dina Christina, Elsa Thania, Erland Sihite",
 	"Flagellum motion in 2-D: Work rate and efficiency of the non-sinusoidal approach",
