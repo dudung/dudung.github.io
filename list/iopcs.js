@@ -3,6 +3,65 @@
 // ------------------------------------
 
 // Added 20190315
+var p = new IOPConfSeries(
+	"S. Viridi, P. Premadi, P. Aditiawati, E. S. Maqdir, T. Suheri, J. Halid, K. N. Sari, U. S. Pasaribu, N. M. Sudaryani, N. Latifah, S. Rahimah",
+	"Simulation of Bioeconomy System using Agent-Based Model in the Case of Smart, Green, and Conventional Farming",
+	"IOP Conference Series: Materials Science and Engineering",
+	"434",
+	"1",
+	"012221",
+	"2018",
+	"https://doi.org/10.1088/1757-899X/395/1/012024"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Hendro, Jefi, S. Viridi",
+	"Automation of data acquisition Surface Plasmon Resonance (SPR) based on LabVIEW",
+	"Journal of Physics: Conference Series",
+	"1127",
+	"1",
+	"012003",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1127/1/012003"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"A. Sutresno, F. Haryanto, S. Viridi, I. Arif",
+	"Diffusion and Interaction between ion Ca<sup>2+</sup> and ion Gd<sup>3+</sup> in a Model Synapse: A Monte Carlo Study",
+	"Journal of Physics: Conference Series",
+	"1127",
+	"1",
+	"012006",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1127/1/012006"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"D. K. Utomo, A. Kurniawati, Hendro, S. Viridi",
+	"Design and Development of Radiated Heater with Temperature Control Program for Surface Plasmon Resonance Experiment",
+	"Journal of Physics: Conference Series",
+	"1127",
+	"1",
+	"012004",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1127/1/012004"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"S. Viridi, S. N. Khotimah, R. Kurniadi, Novitrian, K. Basar, A. Purqon",
+	"Preliminary Study of Bamboo-Like Tree Structure Based on Granular Particle-Spring Model: Relaxation and Tortuosity",
+	"Journal of Physics: Conference Series",
+	"1127",
+	"1",
+	"012019",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1127/1/012019"
+);
+pubs.push(p);
 
 var p = new IOPConfSeries(
 	"M. Rosi, S. Viridi",
