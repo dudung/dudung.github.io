@@ -11,7 +11,7 @@ var p = new IOPConfSeries(
 	"1",
 	"012221",
 	"2019",
-	"https://doi.org/10.1088/1757-899X/395/1/012024"
+	"https://doi.org/10.1088/1755-1315/230/1/012118"
 );
 pubs.push(p);
 
