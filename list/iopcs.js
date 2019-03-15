@@ -2,6 +2,46 @@
 // IOP Conference Series
 // ------------------------------------
 
+// Added 20190315
+
+var p = new IOPConfSeries(
+	"M. Rosi, S. Viridi",
+	"Design and Fabrication of a Simple Laboratory Ball Mill for Powder Coconut Shell Preparation as Raw Material of Biochar",
+	"IOP Conference Series: Materials Science and Engineering",
+	"434",
+	"1",
+	"012221",
+	"2018",
+	"https://doi.org/10.1088/1757-899X/395/1/012024"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"R. Sari, P. M. Widartiningsih, M. A. Martoprawiro, L. Hendrajaya, S. Viridi",
+	"Simulation of Semi-Autogenous Grinding (SAG) Mill using Circular-Disks-based Model",
+	"Journal of Physics: Conference Series",
+	"1090",
+	"1",
+	"012009",
+	"2018",
+	"https://doi.org/10.1088/1757-899X/434/1/012221"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"M. Rosi, S. Viridi",
+	"Reduction the Oxygen Content of the Coconut Shell Char Produced by Using Simple Pyrolysis Method",
+	"IOP Conference Series: Materials Science and Engineering",
+	"395",
+	"1",
+	"012024",
+	"2018",
+	"https://doi.org/10.1088/1757-899X/395/1/012024"
+);
+pubs.push(p);
+
+
+// Before 20190315
 var p = new IOPConfSeries(
 	"S. Viridi, F. D. E. Latief, S. N. Khotimah",
 	"Construction of Maximum Tortuosity of Single Fluid Path in Grid-based 2-d System (5×20) and 3-d system (5×20×3) for Certain Value of Porosity",
