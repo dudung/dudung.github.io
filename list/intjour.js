@@ -17,7 +17,7 @@ pubs.push(p);
 
 var p = new Journal(
 	"N. Amalia, E. Yuliza, D. O. Margaretta, F. D. Utami, N. Surtiyeni, S. Viridi, M. Abdullah",
-	"A Novel Method for Characterizing Temperature-Dependent Elastic Modulus and Glass Transition Temperature by Processing the Images of Bending Cantilever Slender Beams at Different Temperatures"
+	"A Novel Method for Characterizing Temperature-Dependent Elastic Modulus and Glass Transition Temperature by Processing the Images of Bending Cantilever Slender Beams at Different Temperatures",
 	"AIP Advances",
 	"8",
 	"11",
