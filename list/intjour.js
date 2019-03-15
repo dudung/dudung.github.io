@@ -2,6 +2,44 @@
 // International Journal
 // ------------------------------------
 
+// Added on 20190315
+var p = new Journal(
+	"N. Amalia, E. Yuliza, D. O. Margaretta, F. D. Utami, N. Surtiyeni, S. Viridi, M. Abdullah",
+	""Erratum: 'A Novel Method for Characterizing Temperature-Dependent Elastic Modulus and Glass Transition Temperature by Processing the Images of Bending Cantilever Slender Beams at Different Temperatures' [AIP Advances (2018) 8 (115201) DOI: 10.1063/1.5058689]""
+	"AIP Advances",
+	"9",
+	"1",
+	"019901",
+	"2019",
+	"https://doi.org/10.1063/1.5085792"
+);
+pubs.push(p);
+
+var p = new Journal(
+	"N. Amalia, E. Yuliza, D. O. Margaretta, F. D. Utami, N. Surtiyeni, S. Viridi, M. Abdullah",
+	"A Novel Method for Characterizing Temperature-Dependent Elastic Modulus and Glass Transition Temperature by Processing the Images of Bending Cantilever Slender Beams at Different Temperatures"
+	"AIP Advances",
+	"8",
+	"11",
+	"115201",
+	"2018",
+	"https://doi.org/10.1063/1.5058689"
+);
+pubs.push(p);
+
+var p = new Journal(
+	"Z. Irayani, U. Fauzi, S. Viridi, F. D. E. Latief",
+	"Calculation ofAanisotropy Permeability from 3D Tomographic Images using Renormalization Group Approaches and Lattice Boltzmann Method",
+	"Journal of Petroleum Exploration and Production Technology",
+	"",
+	"",
+	"",
+	"2018",
+	"https://doi.org/10.1007/s13202-018-0558-9"
+);
+pubs.push(p);
+
+
 // Added on 20180214
 var p = new Journal(
 	"S. N. Khotimah, S. Viridi, Widayani, Khairurrijal",
