@@ -2,6 +2,20 @@
 // International Journal
 // ------------------------------------
 
+//Udated at 20190514
+var p = new Journal(
+	"Z. Irayani, U. Fauzi, S. Viridi, F. D. E. Latief",
+	"Calculation of anisotropy permeability from 3D tomographic images using renormalization group approaches and lattice Boltzmann method",
+	"Journal of Petroleum Exploration and Production Technology",
+	"9",
+	"2",
+	"889-897",
+	"2019",
+	"https://doi.org/10.1007/s13202-018-0558-9"
+);
+pubs.push(p);
+
+
 // Added on 20190315
 var p = new Journal(
 	"N. Amalia, E. Yuliza, D. O. Margaretta, F. D. Utami, N. Surtiyeni, S. Viridi, M. Abdullah",
@@ -24,18 +38,6 @@ var p = new Journal(
 	"115201",
 	"2018",
 	"https://doi.org/10.1063/1.5058689"
-);
-pubs.push(p);
-
-var p = new Journal(
-	"Z. Irayani, U. Fauzi, S. Viridi, F. D. E. Latief",
-	"Calculation of anisotropy permeability from 3D tomographic images using renormalization group approaches and lattice Boltzmann method",
-	"Journal of Petroleum Exploration and Production Technology",
-	"9",
-	"2",
-	"889-897",
-	"2019",
-	"https://doi.org/10.1007/s13202-018-0558-9"
 );
 pubs.push(p);
 
