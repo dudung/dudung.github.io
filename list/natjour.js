@@ -2,6 +2,22 @@
 // National Journal
 // ------------------------------------
 
+
+// 20190514
+var p = new Journal(
+	"S. Viridi, Nurhayati, Johri Sabaryati, Dewi Muliyati",
+	"Two-Dimensional Dynamics of Spherical Grain Floating on the Propagating Wave Fluid Surface",
+	"Spektra: Jurnal Fisika dan Aplikasinya",
+	"3",
+	"3",
+	"133-142",
+	"2018",
+	"http://dx.doi.org/10.21009/SPEKTRA.033.01"
+);
+pubs.push(p);
+
+
+
 // Add on 20180214
 var p = new Journal(
 	"Khairil Anwar, Dadi Rusdiana, Ida Kaniawati, Sparisoma Viridi",
@@ -38,6 +54,18 @@ var p = new Journal(
 	"9-13",
 	"2017",
 	"https://jms.fmipa.itb.ac.id/ojs_3.0.2/index.php/jms/article/view/726"
+);
+pubs.push(p);
+
+var p = new Journal(
+	"S. Viridi, B. Dermawan",
+	"Distribusi Spasial Densitas Cakram Berukuran Sama dalam Pemodelan Pembentukan Asteroid",
+	"Spektra: Jurnal Fisika dan Aplikasinya",
+	"2",
+	"2",
+	"133-140",
+	"2017",
+	"http://dx.doi.org/10.21009/SPEKTRA.022.07"
 );
 pubs.push(p);
 
