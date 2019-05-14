@@ -2,11 +2,118 @@
 // SNIPS
 // ------------------------------------
 
+
+//----------- 20190514
+var p = new Proceeding(
+	"Ikhsan Mochammad Noor, Ariq Dhia Irfanudin, Dinda Ravi Algifari, Sparisoma Viridi, Yudha Satya Perkasa",
+	"Perbandingan Efektivitas Pemrograman dan Pengguna Visualisasi Gelombang menggunakan VBA pada Excel dan Javascript Web Browser",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"505-514",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_ikhsan_mochammad_noor_amkwzshr2w.pdf"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Widya Meiriska, Sparisoma Viridi",
+	"Analisis Network pada Sistem Granular Dua Dimensi",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"417-424",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_widya_meiriska_gm1xbvna7c.pdf"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Aufa Nu’man Fadhilah Rudiawan, Sparisoma Viridi",
+	"Pemodelan Kelengkungan Kurva pada Kasus Rantai Butiran Magnetik Terentang Horizontal",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"344-351",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_aufa_numan_fadhilah_rudiawan_zpck0t9gsj.pdf"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Dinda Ravi Algifari, Ariq Dhia Irfanudin, Ikhsan Mochammad Noor, Sparisoma Viridi, Yudha Satya Perkasa",
+	"Analisis Simulasi Koefisien Gesekan Kinetik dan Statik pada Bidang Miring dengan JavaScript",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"280-285",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_dinda_ravi_algifari_vjpht53wh9.pdf"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Ariq Dhia Irfanudin, Dinda Ravi Algifari, Ikhsan Mochammad Noor, Sparisoma Viridi, Yudha Satya Perkasa",
+	"Pemodelan Gerak Parabola yang Terjun ke Air Menggunakan Metode Euler Berbasis Javascript",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"233-237",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_ariq_dhia_irfanudin_7ft1lzfekp.pdf"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Nurhayati, Sparisoma Viridi, Anjar Purba Asmara, Zuhra Aina",
+	"Rancang Bangun Alat Pirolisis Sederhana untuk Mengolah Limbah Plastik Polipropilena (PP) menjadi Bahan Bakar Cair (BBC)",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"116-122",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_nurhayati_hayati_gwhpo0enuy.pdf"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Ismi Yasifa, Sparisoma Viridi",
+	"Pemodelan Dua Dimensi Deformabilitas Sel Darah Merah berbasis Granular",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"86-91",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_ismi_yasifa_ov1kibjpac.pdf"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"Sparisoma Viridi, Nurhayati, Johri Sabaryati",
+	"Dinamika Satu-Dimensi Butiran Berbentuk Bola yang Terapung pada Permukaan Fluida",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2018 (SNIPS 2018)",
+	"G. Hikmawan <i>et al</i>.",
+	"Bandung, Indonesia",
+	"9-10 Juli",
+	"2018",
+	"21-31",
+	"http://portal.fmipa.itb.ac.id/snips2018/kfz/files/snips_2018_sparisoma_viridi_mvekpf8o3b.pdf"
+);
+pubs.push(p);
+
+
 //----------- 20180406
 
 var p = new Proceeding(
-	"Pemanfaatan Kamera Handphone dan Aplikasi Inkscape untuk Pengamatan Proses Pelelehan Lilin dan Parafin",
 	"N. I. Romli, Erlina, P. M. Widartiningsih, S. Viridi",
+	"Pemanfaatan Kamera Handphone dan Aplikasi Inkscape untuk Pengamatan Proses Pelelehan Lilin dan Parafin",
 	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
 	"T. D. K. Wungu <i>et al</i>.",
 	"Bandung, Indonesia",
@@ -18,8 +125,8 @@ var p = new Proceeding(
 pubs.push(p);
 
 var p = new Proceeding(
-	"Pemodelan Gaya Casimir dalam Sistem Satu-Dimensi Granular Gravitasi-Diri dengan Operator Tukar",
 	"S. Viridi, S. N. Khotimah, P. M. Widartiningsih",
+	"Pemodelan Gaya Casimir dalam Sistem Satu-Dimensi Granular Gravitasi-Diri dengan Operator Tukar",
 	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
 	"T. D. K. Wungu <i>et al</i>.",
 	"Bandung, Indonesia",
@@ -31,8 +138,8 @@ var p = new Proceeding(
 pubs.push(p);
 
 var p = new Proceeding(
-	"Rancang Perangkat Lunak Rekonstruksi Gambar 2-Dimensi Dari Data Transmisi 4 Sudut Penyinaran",
 	"R. Stiawan, S. Viridi",
+	"Rancang Perangkat Lunak Rekonstruksi Gambar 2-Dimensi Dari Data Transmisi 4 Sudut Penyinaran",
 	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
 	"T. D. K. Wungu <i>et al</i>.",
 	"Bandung, Indonesia",
@@ -44,8 +151,8 @@ var p = new Proceeding(
 pubs.push(p);
 
 var p = new Proceeding(
-	"Rancang Bangun Penghasil Medan Magnet Eksternal dalam Pengamatan Gerak Granular Berbahan Logam Berdipol Magnet",
 	"B. Y. Setiadi, S. Viridi, M. Budiman",
+	"Rancang Bangun Penghasil Medan Magnet Eksternal dalam Pengamatan Gerak Granular Berbahan Logam Berdipol Magnet",
 	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2017 (SNIPS 2017)",
 	"T. D. K. Wungu <i>et al</i>.",
 	"Bandung, Indonesia",
