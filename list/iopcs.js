@@ -2,14 +2,113 @@
 // IOP Conference Series
 // ------------------------------------
 
-// Added 20190315
+
+// Added 20190611
+var p = new IOPConfSeries(
+	"Sparisoma Viridi and Ismi Yasifa",
+	"Simulation of two red blood cells (RBC) collision based on granular model: case of one-dimensional collision",
+	"Journal of Physics: Conference Series",
+	"1248",
+	"1",
+	"012083",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1248/1/012083"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Roni Stiawan, Adhi Kusumadjati, Nina Siti Aminah, Mitra Djamal, Sparisoma Viridi",
+	"An Ultrasonic Sensor System for Vehicle Detection Application",
+	"Journal of Physics: Conference Series",
+	"1204",
+	"1",
+	"012017",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1204/1/012017"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"P. M. Widartiningsih, S. N. Khotimah, B. Dermawan, S. Viridi",
+	"Hexagonal close-packed stability in two-dimensional selfgravitation granular particles system",
+	"Journal of Physics: Conference Series",
+	"1204",
+	"1",
+	"012047",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1204/1/012047"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"D. O. Margaretta, K. W. Permadi, D. Y. Rahman, F. D. Utami, S. Viridi, M. Abdullah",
+	"Antibacterial Investigation Activity of Titania Anatase technical grade on polypropylene sheet",
+	"Journal of Physics: Conference Series",
+	"1204",
+	"1",
+	"012051",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1204/1/012051"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Nadya Amalia1, Elfi Yuliza, Mamat Rokhmat, Edy Wibowo, Sparisoma Viridi, Mikrajuddin Abdullah",
+	"The Effect of Hydrophilic Coating on Concrete Pile Surface in Pile Driving: Field Test",
+	"Journal of Physics: Conference Series",
+	"1204",
+	"1",
+	"012053",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1204/1/012053"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"P. Monalisa, S. N. Khotimah, F. Haryanto, S. Viridi",
+	"Investigation of Pulse Rate and ABPI (Ankle-Brachial Pressure Index) in Relax Condition and after Exercise",
+	"Journal of Physics: Conference Series",
+	"1204",
+	"1",
+	"012065",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1204/1/012065"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Rahmawati, H. D. Rahmayanti, N. Amalia, F. D. Utami, S. Viridi, M. Abdullah",
+	"A Preliminary Study for Simple Physics Models of Coconut Tree",
+	"Journal of Physics: Conference Series",
+	"1204",
+	"1",
+	"012120",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1204/1/012120"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"P. M. Widartiningsih, D. Rahmawati, A. Fitriana, Irhas, A. M. Yusuf, M. Yunus, S. Viridi",
+	"Spectral Distribution of Fano Interferences in Classical Damped Oscillation",
+	"Journal of Physics: Conference Series",
+	"1204",
+	"1",
+	"012126",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1204/1/012126"
+);
+pubs.push(p);
+
+
+// Added 20190315, corrected 20190611
 var p = new IOPConfSeries(
 	"S. Viridi, P. Premadi, P. Aditiawati, E. S. Maqdir, T. Suheri, J. Halid, K. N. Sari, U. S. Pasaribu, N. M. Sudaryani, N. Latifah, S. Rahimah",
 	"Simulation of Bioeconomy System using Agent-Based Model in the Case of Smart, Green, and Conventional Farming",
-	"IOP Conference Series: Materials Science and Engineering",
-	"434",
+	"IOP Conference Series: Earth and Environmental Science",
+	"230",
 	"1",
-	"012221",
+	"012118",
 	"2019",
 	"https://doi.org/10.1088/1755-1315/230/1/012118"
 );
