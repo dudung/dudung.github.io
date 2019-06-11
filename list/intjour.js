@@ -2,6 +2,20 @@
 // International Journal
 // ------------------------------------
 
+//Udated at 20190611
+var p = new Journal(
+	"Swastya Rahastama, Abdul Waris, Sparisoma Viridi, Ferry Iskandar",
+	"Optimization of surface passivation parameters in [<sup>147</sup>Pm]-Si planar p-n junction betavoltaic based on analytical 1-D minority carrier diffusion equation approaches",
+	"Applied Radiation and Isotopes",
+	"",
+	"In Press, Accepted Manuscript",
+	"",
+	"2019",
+	"https://doi.org/10.1016/j.apradiso.2019.03.030"
+);
+pubs.push(p);
+
+
 //Udated at 20190514
 var p = new Journal(
 	"Z. Irayani, U. Fauzi, S. Viridi, F. D. E. Latief",
