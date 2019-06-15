@@ -2,6 +2,19 @@
 // International Journal
 // ------------------------------------
 
+// Updated 20190615
+var p = new Journal(
+	"Widayani, Triati Dewi Kencana Wungu, Sparisoma Viridi",
+	"The Influence of Tensile Angle Direction on the Young Modulus of Single and Combination of Two Anisotropic Materials",
+	"9",
+	"2",
+	"33-38",
+	"2016",
+	"http://dx.doi.org/10.5923/j.cmaterials.20190902.01"
+);
+pubs.push(p);
+
+
 //Udated at 20190611
 var p = new Journal(
 	"Swastya Rahastama, Abdul Waris, Sparisoma Viridi, Ferry Iskandar",
