@@ -170,7 +170,7 @@ var p = new IOPConfSeries(
 	"1",
 	"012221",
 	"2018",
-	"https://doi.org/10.1088/1757-899X/395/1/012024"
+	"https://doi.org/10.1088/1757-899X/434/1/012221"
 );
 pubs.push(p);
 
@@ -182,7 +182,7 @@ var p = new IOPConfSeries(
 	"1",
 	"012009",
 	"2018",
-	"https://doi.org/10.1088/1757-899X/434/1/012221"
+	"https://doi.org/10.1088/1742-6596/1090/1/012009"
 );
 pubs.push(p);
 
