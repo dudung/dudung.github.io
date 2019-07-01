@@ -2,27 +2,28 @@
 // International Journal
 // ------------------------------------
 
-// Updated 20190615
+// Updated 20190615 -- corrected year 20190701
 var p = new Journal(
 	"Widayani, Triati Dewi Kencana Wungu, Sparisoma Viridi",
 	"The Influence of Tensile Angle Direction on the Young Modulus of Single and Combination of Two Anisotropic Materials",
+	"International Journal of Composite Materials",
 	"9",
 	"2",
 	"33-38",
-	"2016",
+	"2019",
 	"http://dx.doi.org/10.5923/j.cmaterials.20190902.01"
 );
 pubs.push(p);
 
 
-//Udated at 20190611
+//Udated at 20190611 -- updated vol, no, pp 20190701
 var p = new Journal(
 	"Swastya Rahastama, Abdul Waris, Sparisoma Viridi, Ferry Iskandar",
 	"Optimization of surface passivation parameters in [<sup>147</sup>Pm]-Si planar p-n junction betavoltaic based on analytical 1-D minority carrier diffusion equation approaches",
 	"Applied Radiation and Isotopes",
+	"151",
 	"",
-	"In Press, Accepted Manuscript",
-	"",
+	"226-234",
 	"2019",
 	"https://doi.org/10.1016/j.apradiso.2019.03.030"
 );

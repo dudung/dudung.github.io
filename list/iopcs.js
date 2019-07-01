@@ -3,6 +3,20 @@
 // ------------------------------------
 
 
+// Added 20190701
+var p = new IOPConfSeries(
+	"Muhammad Iqbal Rahmadhan Putra, Aufa Rudiawan, Wahyuni Andariwulan, Rubén García Berasategui, Sparisoma Viridi",
+	"Network Analysis of The Brazil Nut Effect Phenomenon with a Single Intruder",
+	"IOP Conference Series: Materials Science and Engineering",
+	"546",
+	"1",
+	"052057",
+	"2019",
+	"https://doi.org/10.1088/1757-899X/546/5/052057"
+);
+pubs.push(p);
+
+
 // Added 20190611
 var p = new IOPConfSeries(
 	"Sparisoma Viridi and Ismi Yasifa",
