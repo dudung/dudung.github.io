@@ -2,8 +2,55 @@
 // IOP Conference Series
 // ------------------------------------
 
-
 // Added 20191012
+var p = new IOPConfSeries(
+	"D. O. Margaretta, K. W. Permadi, D. Y. Rahman, F. D. Utami, S. Viridi, M. Abdullah",
+	"The Effect of PVA and PEG Infusion on Titania Antibacterial Coating",
+	"IOP Conference Series: Materials Science and Engineering",
+	"559",
+	"1",
+	"012005",
+	"2019",
+	"https://doi.org/10.1088/1757-899X/599/1/012005"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"S. Viridi, F. Haryanto",
+	"Agent-based Model and its Potential in Simulating Some Physical Systems",
+	"IOP Conference Series: Materials Science and Engineering",
+	"559",
+	"1",
+	"012008",
+	"2019",
+	"https://doi.org/10.1088/1757-899X/599/1/012008"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Rahmawati Munir, Handika Dany Rahmayanti, Elfi Yuliza, Nadya Amalia, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
+	"Preliminary Study: Instrumentation Design for Studying Granular Segregation",
+	"IOP Conference Series: Materials Science and Engineering",
+	"559",
+	"1",
+	"",
+	"2019",
+	"https://doi.org/10.1088/1757-899X/599/1/012019"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"F. F. Florena, F. Faizal, D. W. Maulana, S. T. Satrio, C. Panatarani, I. M. Joni, S. Viridi",
+	"Numerical investigation of droplet evaporation phenomena in the spray methods",
+	"IOP Conference Series: Materials Science and Engineering",
+	"550",
+	"1",
+	"012031",
+	"2019",
+	"https://doi.org/10.1088/1757-899X/550/1/012031"
+);
+pubs.push(p);
+
 var p = new IOPConfSeries(
 	"Bram Yohanes Setiadi, Sparisoma Viridi",
 	"One-Dimensional Motion Analysis of a Cylinder with a Magnetic Dipole Inside an External Magnetic Field",
