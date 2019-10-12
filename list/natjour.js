@@ -2,6 +2,31 @@
 // National Journal
 // ------------------------------------
 
+// Add on 20191012
+var p = new Journal(
+	"Aufa Numan Fadhilah Rudiawan, Kurnia Novita Sari, Hirofumi Notsu, Sparisoma Viridi",
+	"Fluidization of a bed of solid particles in a two dimensional vertical box",
+	"Spektra: Jurnal Fisika dan Aplikasinya",
+	"4",
+	"2",
+	"73-80",
+	"2019",
+	"https://doi.org/10.21009/SPEKTRA.042.03"
+);
+pubs.push(p);
+
+var p = new Journal(
+	"Ismi Yasifa, Sparisoma Viridi",
+	"The spring variation in two-dimensional modeling of red blood cell deformability based granular",
+	"Spektra: Jurnal Fisika dan Aplikasinya",
+	"4",
+	"2",
+	"51-60",
+	"2019",
+	"https://doi.org/10.21009/SPEKTRA.042.01"
+);
+pubs.push(p);
+
 
 // 20190514
 var p = new Journal(
@@ -15,7 +40,6 @@ var p = new Journal(
 	"http://dx.doi.org/10.21009/SPEKTRA.033.01"
 );
 pubs.push(p);
-
 
 
 // Add on 20180214

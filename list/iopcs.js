@@ -3,6 +3,80 @@
 // ------------------------------------
 
 
+// Added 20191012
+var p = new IOPConfSeries(
+	"Bram Yohanes Setiadi, Sparisoma Viridi",
+	"One-Dimensional Motion Analysis of a Cylinder with a Magnetic Dipole Inside an External Magnetic Field",
+	"Journal of Physics: Conference Series",
+	"1245",
+	"1",
+	"012083",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1245/1/012083"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Florentin Anggraini Purnama, Widya Meiriska, Dimas Praja Purwa Aji, Devi Aprianti, Sparisoma Viridi",
+	"Network Analysis of Saccharomyces cerevisiae",
+	"Journal of Physics: Conference Series",
+	"1245",
+	"1",
+	"012081",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1245/1/012081"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"A. Z. Rozzykin, B. Dermawan, S. Viridi",
+	"Modelling Brazil Nut Effect Phenomenon of Boulders on Asteroid Surface",
+	"Journal of Physics: Conference Series",
+	"1245",
+	"1",
+	"012021",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1245/1/012021"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"S Viridi, M. Dwitasari, M. Takaendengan, K. N. Sari, U. S. Pasaribu",
+	"Traffic flow simulation using agent-based model: A case of single lane with multiple traffic lights and input-output node",
+	"Journal of Physics: Conference Series",
+	"1245",
+	"1",
+	"012011",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1245/1/012011"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Dimas Praja Purwa Aji, Devi Aprianti, Sparisoma Viridi",
+	"Stochastic Simulation of Yeast Cells and Its Colony Growth by Using Circular Granular Model for Cases of Growth and Birth Probabilities Depends on Position",
+	"Journal of Physics: Conference Series",
+	"1245",
+	"1",
+	"012010",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1245/1/012010"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Widya Meiriska, F. A. Purnama, D. P. P. Aji, D. Aprianti, S. Viridi",
+	"Network Analysis of Saccharomyces Cerevisiae Colony: Relation between Spatial Position and Generation",
+	"Journal of Physics: Conference Series",
+	"1245",
+	"1",
+	"012006",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1245/1/012006"
+);
+pubs.push(p);
+
+
 // Added 20190701
 var p = new IOPConfSeries(
 	"Muhammad Iqbal Rahmadhan Putra, Aufa Rudiawan, Wahyuni Andariwulan, Rubén García Berasategui, Sparisoma Viridi",
