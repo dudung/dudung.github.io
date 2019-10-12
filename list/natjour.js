@@ -4,6 +4,18 @@
 
 // Add on 20191012
 var p = new Journal(
+	"Rahmawati Munir, Handika Dany Rahmayanti, Nadya Amalia, Sparisoma Viridi, Mikrajuddin Abdullah",
+	"Penggunaan Image Tracking untuk Pengukuran Sifat Mekanik pada Kertas",
+	"Jurnal Fisika",
+	"9",
+	"1",
+	"21-27",
+	"2019",
+	"https://doi.org/10.15294/jf.v9i1.19393"
+);
+pubs.push(p);
+
+var p = new Journal(
 	"Aufa Numan Fadhilah Rudiawan, Kurnia Novita Sari, Hirofumi Notsu, Sparisoma Viridi",
 	"Fluidization of a bed of solid particles in a two dimensional vertical box",
 	"Spektra: Jurnal Fisika dan Aplikasinya",
