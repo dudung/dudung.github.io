@@ -2,6 +2,69 @@
 // AIP Conference Proceedings
 // ------------------------------------
 
+// Add on 20191108
+var p = new AIPProceeding(
+	"Dewi Muliyati, Sparisoma Viridi, Ella Fitriani, Siswoyo, Diah Ambarwulan",
+	"Explain the physics concepts with flood phenomena using augmented reality technology",
+	"The 8th National Physics Seminar, (SNF)-2019",
+	"Bakri Zmeskal, Firmanul Catur Wibowo, Iwan Sugihartono, Esmar Budi, Widyaningrum Indrasari, Umiatin",
+	"2169",
+	"2019",
+	"020009",
+	"https://doi.org/10.1063/1.5132644"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
+	"Ariq Dhia Irfanudin, Dinda Ravi Algifari, Sparisoma Viridi, Yudha Satya Perkasa",
+	"Static and dynamic neighbor interaction of flocking model in Newtonian approach",
+	"The 8th National Physics Seminar, (SNF)-2019",
+	"Bakri Zmeskal, Firmanul Catur Wibowo, Iwan Sugihartono, Esmar Budi, Widyaningrum Indrasari, Umiatin",
+	"2169",
+	"2019",
+	"040001",
+	"https://doi.org/10.1063/1.5132664"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
+	"Dewi Muliyati, Nurhayati, Johri Sabaryati, Sparisoma Viridi",
+	"The granular buoyant force in a two-dimensional intruder-particles bed system",
+	"The 8th National Physics Seminar, (SNF)-2019",
+	"Bakri Zmeskal, Firmanul Catur Wibowo, Iwan Sugihartono, Esmar Budi, Widyaningrum Indrasari, Umiatin",
+	"2169",
+	"2019",
+	"040005",
+	"https://doi.org/10.1063/1.5132668"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
+	"Muhammad Iqbal Rahmadhan Putra, Wafa Rastiadi, Nadhira Azzahra, Sparisoma Viridi",
+	"The study of determining the optimum fluidization velocity in binary mixture segregation",
+	"The 8th National Physics Seminar, (SNF)-2019",
+	"Bakri Zmeskal, Firmanul Catur Wibowo, Iwan Sugihartono, Esmar Budi, Widyaningrum Indrasari, Umiatin",
+	"2169",
+	"2019",
+	"040006",
+	"https://doi.org/10.1063/1.5132669"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
+	"Wafa Fatimah Rastiadia, Iqbal Rahmadhan, Nadhira Azzahra, Sparisoma Viridi",
+	"Cross-over point of segregation in binary mixture of different size particles",
+	"The 8th National Physics Seminar, (SNF)-2019",
+	"Bakri Zmeskal, Firmanul Catur Wibowo, Iwan Sugihartono, Esmar Budi, Widyaningrum Indrasari, Umiatin",
+	"2169",
+	"2019",
+	"040007",
+	"https://doi.org/10.1063/1.5132670"
+);
+pubs.push(p);
+
+
+
 // Add on 20190315
 var p = new AIPProceeding(
 	"K. Anwar, D. Rusdiana, I. Kaniawati, S. Viridi",
