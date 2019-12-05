@@ -2,6 +2,20 @@
 // International Journal
 // ------------------------------------
 
+// Updated 20191205
+var p = new Journal(
+	"Desyana Olenka Margaretta, Nadya Amalia, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
+	"Second-order phase transition and universality of self-buckled elastic slender columns",
+	"Journal of Taibah University for Science",
+	"13",
+	"1",
+	"1128-1136",
+	"2019",
+	"http://dx.doi.org/10.1080/16583655.2019.1688542"
+);
+pubs.push(p);
+
+
 // Updated 20190615 -- corrected year 20190701
 var p = new Journal(
 	"Widayani, Triati Dewi Kencana Wungu, Sparisoma Viridi",
