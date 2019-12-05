@@ -2,6 +2,20 @@
 // IOP Conference Series
 // ------------------------------------
 
+// Added 20191295
+var p = new IOPConfSeries(
+	"T. Suheri, S. Viridi",
+	"Gravity-Driven Agent-Based Model for Simulation of Economic Growth a Point Along a Highway",
+	"IOP Conference Series: Materials Science and Engineering",
+	"662",
+	"6",
+	"062015",
+	"2019",
+	"https://doi.org/10.1088/1757-899X/662/6/062015"
+);
+pubs.push(p);
+
+
 // Added 20191012
 var p = new IOPConfSeries(
 	"D. O. Margaretta, K. W. Permadi, D. Y. Rahman, F. D. Utami, S. Viridi, M. Abdullah",
