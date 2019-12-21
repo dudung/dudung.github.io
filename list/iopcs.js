@@ -27,18 +27,6 @@ var p = new IOPConfSeries(
 );
 pubs.push(p);
 
-var p = new IOPConfSeries(
-	"S. Viridi, I. Yasifa",
-	"Simulation of two red blood cells (RBC) collision based on granular model: case of one-dimensional collision",
-	"Journal of Physics: Conference Series",
-	"1248",
-	"1",
-	"012083",
-	"2019",
-	"https://doi.org/10.1088/1742-6596/1248/1/012083"
-);
-pubs.push(p);
-
 
 // Added 20191205
 var p = new IOPConfSeries(
