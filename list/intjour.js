@@ -2,6 +2,7 @@
 // International Journal
 // ------------------------------------
 
+// Updated 20191221
 var p = new Journal(
 	"A. Sutresno, F. Haryanto, S. Viridi, I. Arif",
 	"Influence Blocking by Gadolinium in Calcium Diffusion on Synapse Model: A Monte Carlo Simulation Study",
