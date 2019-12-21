@@ -2,7 +2,21 @@
 // IOP Conference Series
 // ------------------------------------
 
-// Added 20191295
+// Added 20191221
+var p = new IOPConfSeries(
+	"N. F. Lubis, P. M. Widartiningsih, S. Viridi",
+	"Numerical and Experimental Study of Thermal Response of an Electrified Nickel Wire",
+	"Journal of Physics: Conference Series",
+	"1397",
+	"1",
+	"012006",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1397/1/012006"
+);
+pubs.push(p);
+
+
+// Added 20191205
 var p = new IOPConfSeries(
 	"T. Suheri, S. Viridi",
 	"Gravity-Driven Agent-Based Model for Simulation of Economic Growth a Point Along a Highway",
