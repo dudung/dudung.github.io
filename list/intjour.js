@@ -2,6 +2,19 @@
 // International Journal
 // ------------------------------------
 
+var p = new Journal(
+	"A. Sutresno, F. Haryanto, S. Viridi, I. Arif",
+	"Influence Blocking by Gadolinium in Calcium Diffusion on Synapse Model: A Monte Carlo Simulation Study",
+	"Journal of Biomedical Physics and Engineering",
+	"",
+	"online first",
+	"",
+	"2020",
+	"https://doi.org/10.31661/jbpe.v0i0.1155"
+);
+pubs.push(p);
+
+
 // Updated 20191205
 var p = new Journal(
 	"Desyana Olenka Margaretta, Nadya Amalia, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
