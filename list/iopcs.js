@@ -4,6 +4,18 @@
 
 // Added 20191221
 var p = new IOPConfSeries(
+	"D. Muliyati, D. Sumardani, D. Ambarwulan, S. Siswoyo, E. Handoko, E. Fitriani, S. Viridi",
+	"The 3-D visualization of the granular particle on various diameter porous surfaces",
+	"Journal of Physics: Conference Series",
+	"1402",
+	"7",
+	"077026",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1402/7/077026"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
 	"N. F. Lubis, P. M. Widartiningsih, S. Viridi",
 	"Numerical and Experimental Study of Thermal Response of an Electrified Nickel Wire",
 	"Journal of Physics: Conference Series",
@@ -12,6 +24,18 @@ var p = new IOPConfSeries(
 	"012006",
 	"2019",
 	"https://doi.org/10.1088/1742-6596/1397/1/012006"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"S. Viridi, I. Yasifa",
+	"Simulation of two red blood cells (RBC) collision based on granular model: case of one-dimensional collision",
+	"Journal of Physics: Conference Series",
+	"1248",
+	"1",
+	"012083",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1248/1/012083"
 );
 pubs.push(p);
 
