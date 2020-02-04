@@ -2,6 +2,20 @@
 // National Journal
 // ------------------------------------
 
+// Add on 20200204
+var p = new Journal(
+	"Erlina Erlina, Septian Ulan Dini, Sparisoma Viridi",
+	"Perumusan Gaya Atraktif Bola Terapung dengan Metode Eksperimen dan Pengolahan Citra Digital",
+	"Jurnal Teori dan Aplikasi Fisika",
+	"8",
+	"1",
+	"61-68",
+	"2020",
+	"https://jurnal.fmipa.unila.ac.id/jtaf/article/view/2368"
+);
+pubs.push(p);
+
+
 // Add on 20191012
 var p = new Journal(
 	"Rahmawati Munir, Handika Dany Rahmayanti, Nadya Amalia, Sparisoma Viridi, Mikrajuddin Abdullah",

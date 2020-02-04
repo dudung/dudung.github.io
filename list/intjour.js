@@ -2,7 +2,21 @@
 // International Journal
 // ------------------------------------
 
-// Updated 20191221
+// Updated 20200204
+var p = new Journal(
+	"Rahmawati Munir, Handika Dany Rahmayanti, Riri Murniati, Dui Yanto Rahman, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
+	"Experiment and modeling of the rice winnowing process: granular segregation method from an ancient era",
+	"Granular Matter",
+	"22",
+	"",
+	"24",
+	"2020",
+	"https://doi.org/10.1007/s10035-019-0991-6"
+);
+pubs.push(p);
+
+
+// Updated 20191221, 20200204
 var p = new Journal(
 	"A. Sutresno, F. Haryanto, S. Viridi, I. Arif",
 	"Influence Blocking by Gadolinium in Calcium Diffusion on Synapse Model: A Monte Carlo Simulation Study",
@@ -11,7 +25,7 @@ var p = new Journal(
 	"online first",
 	"",
 	"2020",
-	"https://doi.org/10.31661/jbpe.v0i0.1155"
+	"http://jbpe.sums.ac.ir/article_45932.html"
 );
 pubs.push(p);
 

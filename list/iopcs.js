@@ -2,6 +2,32 @@
 // IOP Conference Series
 // ------------------------------------
 
+// Added 20200204
+var p = new IOPConfSeries(
+	"P. M. Widartiningsih, F. Iskandar, M. M. Munir, S. Viridi",
+	"The Influence of Solvent Parameters along Terminal Jet Radius and Fiber Diameter in Electrospinning",
+	"Journal of Physics: Conference Series",
+	"1445",
+	"1",
+	"012205",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1445/1/012025"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"S. Viridi, T. A. Sanny",
+	"Penetration Depth of Free Falling Intruder into a Particles Bed in Fluid-Immersed Two-Dimension Spherical Particle System",
+	"Journal of Physics: Conference Series",
+	"1445",
+	"1",
+	"012002",
+	"2019",
+	"https://doi.org/10.1088/1742-6596/1445/1/012002"
+);
+pubs.push(p);
+
+
 // Added 20191221
 var p = new IOPConfSeries(
 	"D. Muliyati, D. Sumardani, D. Ambarwulan, S. Siswoyo, E. Handoko, E. Fitriani, S. Viridi",
