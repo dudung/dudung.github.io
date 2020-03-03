@@ -2,6 +2,20 @@
 // National Journal
 // ------------------------------------
 
+// Add on 20200303
+var p = new Journal(
+	"Handika Dany Rahmayanti, Fairusy Fitria Haryani, Fatriani Fatriani, Kamirul Kamirul, Muhammad Fitrah Alfian Rangga Sakti, Freddy Haryanto, Sparisoma Viridi",
+	"Aplikasi Metode Monte Carlo dengan Adaptive Method untuk Menentukan Intensitas Radiasi Terserap dalam Bahan Proteksi Radiasi Berbentuk Komposit Tersusun Seri",
+	"Jurnal Matematika dan Sains",
+	"25",
+	"1",
+	"1-5",
+	"2020",
+	"https://jms.fmipa.itb.ac.id/index.php/jms/issue/view/66"
+);
+pubs.push(p);
+
+
 // Add on 20200204
 var p = new Journal(
 	"Erlina Erlina, Septian Ulan Dini, Sparisoma Viridi",
