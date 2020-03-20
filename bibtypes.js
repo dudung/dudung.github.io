@@ -10,6 +10,8 @@
 		Add KnEEng similar to IOPConfSeries variable type.
 	20171213
 		Add INA-Rxiv similar to Vixra or arXiv
+	20200320
+		Add Zenodo.
 */
 
 function createBibType(values) {
@@ -35,6 +37,7 @@ var Workshop = createBibType("author|title|workshop|place|daymonth|year|url");
 var IOPConfSeries = createBibType("author|title|journal|volume|number|page|year|url");
 var KnEEng = createBibType("author|title|journal|volume|number|page|year|url");
 var INARxiv = createBibType("author|title|monthday|year|url");
+var Zenodo = createBibType("author|title|number|monthday|year|url");
 
 function stringBibItem(item) {
 	if(item instanceof Journal) {
@@ -189,6 +192,14 @@ function stringBibItem(item) {
 		var string = item.author + ", " +
 		"&quot;" + item.title + "&quot;, " +
 		a1 + "INA-Rxiv, " + item.monthday + " " +
+		item.year + a2 + ".";
+	} else if(item instanceof Zenodo) {
+		var a1 = "<a href='https://doi.org/10.5281/zenodo."
+		+ item.number + "'>";
+		var a2 = "</a>";
+		var string = item.author + ", " +
+		"&quot;" + item.title + "&quot;, " +
+		a1 + "Zenodo." + item.number + " | " + item.monthday + " " +
 		item.year + a2 + ".";
 	}
 	return string;
