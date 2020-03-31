@@ -3,6 +3,17 @@
 // ------------------------------------
 
 
+// Add on 20200401.0537
+var p = new Zenodo(
+	"S. Viridi",
+	"18 | Gelombang elektromagnetik – I",
+	"3734532",
+	"31 Mar",
+	"2020"
+);
+pubs.push(p);
+
+
 // Add on 20200330.1905
 var p = new Zenodo(
 	"S. Viridi, N. Nuraini, I. Taufik, A. Susandi, P. Aditiawati",
