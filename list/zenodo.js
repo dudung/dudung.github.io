@@ -3,6 +3,27 @@
 // ------------------------------------
 
 
+// Add on 20200402.1845
+var p = new Zenodo(
+	"S. Viridi",
+	"18 | Gelombang elektromagnetik – II",
+	"3737820",
+	"2 Apr",
+	"2020"
+);
+pubs.push(p);
+
+
+var p = new Zenodo(
+	"S. Viridi, R. Kurniadi",
+	"40 | Pengantar Singkat Contoh Penerapan Metode Dinamika Molekuler pada Beberapa Kasus Non-Molekuler – III",
+	"3737169",
+	"1 Apr",
+	"2020"
+);
+pubs.push(p);
+
+
 // Add on 20200401.0537
 var p = new Zenodo(
 	"S. Viridi",
