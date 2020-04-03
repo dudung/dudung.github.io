@@ -3,6 +3,18 @@
 // ------------------------------------
 
 
+// Add on 20200403.1142
+var p = new Zenodo(
+	"S. Viridi, R. Kurniadi",
+	"40 | Pengantar Singkat Contoh Penerapan Metode Dinamika Molekuler pada Beberapa Kasus Non-Molekuler – IV",
+	"3738695",
+	"3 Apr",
+	"2020"
+);
+pubs.push(p);
+
+
+
 // Add on 20200402.1845
 var p = new Zenodo(
 	"S. Viridi",
@@ -12,7 +24,6 @@ var p = new Zenodo(
 	"2020"
 );
 pubs.push(p);
-
 
 var p = new Zenodo(
 	"S. Viridi, R. Kurniadi",
