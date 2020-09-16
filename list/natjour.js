@@ -2,6 +2,45 @@
 // National Journal
 // ------------------------------------
 
+// Add on 20200916
+
+var p = new Journal(
+	"Khairil Anwar, Sparisoma Viridi, Dadi Rusdiana, Ida Kaniawati",
+	"Pengaruh variasi luas ujung pipa pada sistem resonansi bunyi kolom udara",
+	"Jurnal Penelitian dan Pengkajian Ilmu Pendidikan: e-Saintika",
+	"7",
+	"1",
+	"27-34",
+	"2020",
+	"http://dx.doi.org/10.12928/jrkpf.v7i1.15814"
+);
+pubs.push(p);
+
+var p = new Journal(
+	"Khairil Anwar, Dadi Rusdiana, Ida Kaniawati, Sparisoma Viridi",
+	"Desain Pembelajaran Gelombang untuk Membentuk Calon Guru Fisika yang Terampil, Berbudaya dan Paham Teknologi Digital",
+	"Jurnal Penelitian dan Pengkajian Ilmu Pendidikan: e-Saintika",
+	"4",
+	"1",
+	"26-37",
+	"2020",
+	"https://doi.org/10.36312/e-saintika.v4i1.179"
+);
+pubs.push(p);
+
+var p = new Journal(
+	"Nurhayati, Sparisoma Viridi, Freddy Permana Zen",
+	"Analisis Pengaruh Viskositas pada Self-Siphon",
+	"Jurnal Phi: Jurnal Pendidikan Fisika dan Fisika Terapan",
+	"2019",
+	"1",
+	"31-36",
+	"2019",
+	"http://dx.doi.org/10.22373/p-jpft.v2019i1.7438"
+);
+pubs.push(p);
+
+
 // Add on 20200303
 var p = new Journal(
 	"Handika Dany Rahmayanti, Fairusy Fitria Haryani, Fatriani Fatriani, Kamirul Kamirul, Muhammad Fitrah Alfian Rangga Sakti, Freddy Haryanto, Sparisoma Viridi",
