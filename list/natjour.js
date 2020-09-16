@@ -6,7 +6,7 @@
 var p = new Journal(
 	"Khairil Anwar, Sparisoma Viridi, Dadi Rusdiana, Ida Kaniawati",
 	"Pengaruh variasi luas ujung pipa pada sistem resonansi bunyi kolom udara",
-	"Jurnal Penelitian dan Pengkajian Ilmu Pendidikan: e-Saintika",
+	"Jurnal Riset dan Kajian Pendidikan Fisika",
 	"7",
 	"1",
 	"27-34",
