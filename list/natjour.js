@@ -2,7 +2,7 @@
 // National Journal
 // ------------------------------------
 
-// Add on 20200916: 2019+1, 2020+2
+// Add on 20200916 2019+1, 2020+2
 var p = new Journal(
 	"Khairil Anwar, Sparisoma Viridi, Dadi Rusdiana, Ida Kaniawati",
 	"Pengaruh variasi luas ujung pipa pada sistem resonansi bunyi kolom udara",
