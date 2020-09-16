@@ -3,7 +3,6 @@
 // ------------------------------------
 
 // Add on 20200916
-
 var p = new Journal(
 	"Khairil Anwar, Sparisoma Viridi, Dadi Rusdiana, Ida Kaniawati",
 	"Pengaruh variasi luas ujung pipa pada sistem resonansi bunyi kolom udara",
