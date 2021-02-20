@@ -3,6 +3,104 @@
 // ------------------------------------
 
 
+// 20210221
+var p = new IOPConfSeries(
+	"",
+	"Gamified experimental data on physics experiment to measuring the acceleration due to gravity",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"",
+	"Compaction of a two-dimensional system of composite spherical particles under the influence of self-gravitation: Between lock-and-key model and Tetris-structure",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"",
+	"Contact forces in Brazil nut effect phenomenon of boulders on the asteroid surface",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"",
+	"Simulation of single particle flowing in a microfluidic device using molecular dynamics method",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"",
+	"Molecular dynamics simulation of floating sphere forming two-dimensional hexagonal close packed structure",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"",
+	"Harnessing technology-enabled active learning simulations (TEALSim) on modern physics concept",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"",
+	"Molecular dynamics simulation of floating sphere forming two-dimensional hexagonal close packed structure",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"",
+	"Aggregation of two-dimensional composite grains due to self-gravitation",
+	"Journal of Physics: Conference Series",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/"
+);
+pubs.push(p);
+
+
 // Added 20210220
 var p = new IOPConfSeries(
 	"Robi Dany Riupassa, Abdul Waris, Sparisoma Viridi, Khairul Basar, Novitrian, Habibi Abdillah",
