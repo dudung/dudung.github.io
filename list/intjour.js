@@ -22,7 +22,7 @@ var p = new Journal(
 	"",
 	"",
 	"",
-	"2020",
+	"2021",
 	"https://doi.org/10.1016/j.matpr.2020.11.434"
 );
 pubs.push(p);
