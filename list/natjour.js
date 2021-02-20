@@ -2,6 +2,21 @@
 // National Journal
 // ------------------------------------
 
+
+// 20210220.1859
+var p = new Journal(
+	"Fairusy Fitria Haryani, Freddy Haryanto, Sparisoma Viridi",
+	"Difusi Bebas 1D dan 2D dengan Monte Carlo: Perbandingan Distribusi Bilangan Random Normal dan Seragam dengan Box-Müller",
+	"Jurnal Teori dan Aplikasi Fisika",
+	"9",
+	"1",
+	"55-64",
+	"2021",
+	"http://dx.doi.org/10.23960/jtaf.v9i1.2608"
+);
+pubs.push(p);
+
+
 // Add on 20200916 2019+1, 2020+2
 var p = new Journal(
 	"Khairil Anwar, Sparisoma Viridi, Dadi Rusdiana, Ida Kaniawati",
