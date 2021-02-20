@@ -3,102 +3,67 @@
 // ------------------------------------
 
 
-// 20210221
+// 20210221.0506 --
 var p = new IOPConfSeries(
-	"",
+	"S. Saprudin, S. Liliasari, A. S. Prihatmanto, A. Setiawan, S. Viridi, H. Safitri, I. K. Yulina, C. Rochman",
 	"Gamified experimental data on physics experiment to measuring the acceleration due to gravity",
 	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
+	"1567",
+	"3",
+	"032079",
 	"2020",
-	"https://doi.org/10.1088/1742-6596/"
+	"https://doi.org/10.1088/1742-6596/1567/3/032079"
 );
 pubs.push(p);
 
 var p = new IOPConfSeries(
-	"",
+	"S. Viridi, B. Dermawan",
 	"Compaction of a two-dimensional system of composite spherical particles under the influence of self-gravitation: Between lock-and-key model and Tetris-structure",
 	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
+	"1523",
+	"1",
+	"012022",
 	"2020",
-	"https://doi.org/10.1088/1742-6596/"
+	"https://doi.org/10.1088/1742-6596/1523/1/012022"
 );
 pubs.push(p);
 
 var p = new IOPConfSeries(
-	"",
+	"A. Z. Rozzykin, B. Dermawan, S. Viridi",
 	"Contact forces in Brazil nut effect phenomenon of boulders on the asteroid surface",
 	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
+	"1523",
+	"1",
+	"012020",
 	"2020",
-	"https://doi.org/10.1088/1742-6596/"
+	"https://doi.org/10.1088/1742-6596/1523/1/012020"
 );
 pubs.push(p);
 
 var p = new IOPConfSeries(
-	"",
+	"Sparisoma Viridi, Freddy Haryanto, Isa Anshori, Mohammad Haekal",
 	"Simulation of single particle flowing in a microfluidic device using molecular dynamics method",
 	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
+	"1505",
+	"1",
+	"012062",
 	"2020",
-	"https://doi.org/10.1088/1742-6596/"
+	"https://doi.org/10.1088/1742-6596/1505/1/012062"
 );
 pubs.push(p);
 
 var p = new IOPConfSeries(
-	"",
-	"Molecular dynamics simulation of floating sphere forming two-dimensional hexagonal close packed structure",
-	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
-	"2020",
-	"https://doi.org/10.1088/1742-6596/"
-);
-pubs.push(p);
-
-var p = new IOPConfSeries(
-	"",
+	"A. Swandi, B. D. Amin, S. Viridi, F. D. Eljabbar",
 	"Harnessing technology-enabled active learning simulations (TEALSim) on modern physics concept",
 	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
+	"1521",
+	"2",
+	"022004",
 	"2020",
-	"https://doi.org/10.1088/1742-6596/"
+	"https://doi.org/10.1088/1742-6596/1521/2/022004"
 );
 pubs.push(p);
 
-var p = new IOPConfSeries(
-	"",
-	"Molecular dynamics simulation of floating sphere forming two-dimensional hexagonal close packed structure",
-	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
-	"2020",
-	"https://doi.org/10.1088/1742-6596/"
-);
-pubs.push(p);
-
-var p = new IOPConfSeries(
-	"",
-	"Aggregation of two-dimensional composite grains due to self-gravitation",
-	"Journal of Physics: Conference Series",
-	"",
-	"",
-	"",
-	"2020",
-	"https://doi.org/10.1088/1742-6596/"
-);
-pubs.push(p);
 
 
 // Added 20210220

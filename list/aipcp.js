@@ -2,6 +2,34 @@
 // AIP Conference Proceedings
 // ------------------------------------
 
+
+// 20210221.05xx-0457
+var p = new AIPProceeding(
+	"S. Viridi, V. Suendo",
+	"Molecular dynamics simulation of floating sphere forming two-dimensional hexagonal close packed structure",
+	"The 5th International Symposium on Current Progress in Mathematics and Sciences, (ISCPMS)-2019",
+	"Terry Mart, Djoko Triyono, Tribidasari Anggraningrum Ivandini",
+	"2242",
+	"2020",
+	"020002",
+	"https://doi.org/10.1063/5.0010641"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
+	"S. Viridi, F. F. Florena, F. Faizal, A. Suroso, Nurhasan, Y. Bindar",
+	"Aggregation of two-dimensional composite grains due to self-gravitation",
+	"The 2nd International Conference and Exhibition on Powder Technology, (ICePTi)-2019",
+	"I Made Joni, Camellia Panatarani, Danar Praseptiangga",
+	"2219",
+	"2020",
+	"020002",
+	"https://doi.org/10.1063/5.0003475"
+);
+pubs.push(p);
+
+
+
 // Add on 20191108
 var p = new AIPProceeding(
 	"Dewi Muliyati, Sparisoma Viridi, Ella Fitriani, Siswoyo, Diah Ambarwulan",
