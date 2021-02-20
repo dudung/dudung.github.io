@@ -12,6 +12,8 @@
 		Add INA-Rxiv similar to Vixra or arXiv
 	20200320
 		Add Zenodo.
+	20210220
+		1800 Add OSF.
 */
 
 function createBibType(values) {
@@ -38,6 +40,7 @@ var IOPConfSeries = createBibType("author|title|journal|volume|number|page|year|
 var KnEEng = createBibType("author|title|journal|volume|number|page|year|url");
 var INARxiv = createBibType("author|title|monthday|year|url");
 var Zenodo = createBibType("author|title|number|monthday|year|url");
+var OSF = createBibType("author|title|number|monthday|year|url");
 
 function stringBibItem(item) {
 	if(item instanceof Journal) {
@@ -201,6 +204,14 @@ function stringBibItem(item) {
 		"&quot;" + item.title + "&quot;, " +
 		a1 + "Zenodo." + item.number + " | " + item.monthday + " " +
 		item.year + a2 + ".";
+	} else if(item instanceof OSF) {
+		var a1 = "<a href='https://doi.org/10.17605/osf.io/"
+		+ item.number + "'>";
+		var a2 = "</a>";
+		var string = item.author + ", " +
+		"&quot;" + item.title + "&quot;, " +
+		a1 + "OSF, " + item.monthday + " " +
+		item.year + ", doi:10.17605/osf.io/" + item.number + a2 + ".";
 	}
 	return string;
 }
