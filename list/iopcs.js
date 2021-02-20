@@ -3,7 +3,7 @@
 // ------------------------------------
 
 
-// 20210221.0506 --
+// 20210221.0506 -- 0549
 var p = new IOPConfSeries(
 	"S. Saprudin, S. Liliasari, A. S. Prihatmanto, A. Setiawan, S. Viridi, H. Safitri, I. K. Yulina, C. Rochman",
 	"Gamified experimental data on physics experiment to measuring the acceleration due to gravity",

@@ -28,6 +28,20 @@ var p = new Journal(
 pubs.push(p);
 
 
+// 20210221
+var p = new Journal(
+	"Desyana Olenka Margaretta, Nadya Amalia, Fisca Dian Utami, Riri Murniati, Sparisoma Viridi, Mikrajuddin Abdullah",
+	"Size-dependent electron chemical potential in nanostructures derived from statistical configuration",
+	"Turkish Journal of Physics",
+	"44",
+	"",
+	"195-213",
+	"2020",
+	"https://doi.org/10.3906/fiz-1907-27"
+);
+pubs.push(p);
+
+
 // Updated 20200204
 var p = new Journal(
 	"Rahmawati Munir, Handika Dany Rahmayanti, Riri Murniati, Dui Yanto Rahman, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
@@ -54,6 +68,7 @@ var p = new Journal(
 	"https://dx.doi.org/10.31661/jbpe.v0i0.1155"
 );
 pubs.push(p);
+
 
 
 // Updated 20191205
