@@ -2,6 +2,45 @@
 // IOP Conference Series
 // ------------------------------------
 
+
+// Added 20210220
+var p = new IOPConfSeries(
+	"Robi Dany Riupassa, Abdul Waris, Sparisoma Viridi, Khairul Basar, Novitrian, Habibi Abdillah",
+	"Study of Steady State Heat Conduction in Composite Layer by Linear Triangular Finite Element",
+	"Journal of Physics: Conference Series",
+	"1772",
+	"1",
+	"012012",
+	"2021",
+	"https://doi.org/10.1088/1742-6596/1772/1/012012"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Sparisoma Viridi, Dwi Irwanto, Nanang Hariyanto, Sudarmono Sasmono",
+	"Connected Floating Balls Dynamics for Harvesting Energy of Sinusoidal Water Wave",
+	"Journal of Physics: Conference Series",
+	"1772",
+	"1",
+	"012011",
+	"2021",
+	"https://doi.org/10.1088/1742-6596/1772/1/012011"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"S. Rahastama, A. Waris, F. Iskandar, S. Viridi",
+	"The Implementation of Finite Difference Minority Carrier Diffusion Equation to Determine Pm-147/Si Betavoltaic Performance",
+	"Journal of Physics: Conference Series",
+	"1772",
+	"1",
+	"012008",
+	"2021",
+	"https://doi.org/10.1088/1742-6596/1772/1/012008"
+);
+pubs.push(p);
+
+
 // Added 20200204
 var p = new IOPConfSeries(
 	"P. M. Widartiningsih, F. Iskandar, M. M. Munir, S. Viridi",

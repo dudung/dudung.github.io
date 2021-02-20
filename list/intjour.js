@@ -2,6 +2,33 @@
 // International Journal
 // ------------------------------------
 
+// Updated 20210220
+var p = new Journal(
+	"R. Munir, S. Viridi, M. Abdullah",
+	"Investigation of Mechanical Properties for Non-Homogeneous by Image Tracking",
+	"Materials Today: Proceedings",
+	"",
+	"",
+	"",
+	"2021",
+	"https://doi.org/10.1016/j.matpr.2021.8.88"
+);
+pubs.push(p);
+
+var p = new Journal(
+	"Y. Anggraini, I. M. Sutjahja, D. Kurnia, S. Viridi",
+	"Effects of anion and alkyl chain length of cation on the thermophysical properties of imidazolium-based ionic liquid",
+	"Materials Today: Proceedings",
+	"",
+	"",
+	"",
+	"2020",
+	"https://doi.org/10.1016/j.matpr.2020.11.434"
+);
+pubs.push(p);
+
+
+
 // Updated 20200204
 var p = new Journal(
 	"Rahmawati Munir, Handika Dany Rahmayanti, Riri Murniati, Dui Yanto Rahman, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
