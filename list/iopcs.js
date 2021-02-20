@@ -40,6 +40,18 @@ var p = new IOPConfSeries(
 );
 pubs.push(p);
 
+var p = new IOPConfSeries(
+	"K. Anwar, D. Rusdiana, I. Kaniawati, S. Viridi",
+	"Teaching wave concepts using traditional musical instruments and free software to prepare prospective skillful millennial physics teachers",
+	"Journal of Physics: Conference Series",
+	"1521",
+	"2",
+	"022056",
+	"2020",
+	"https://doi.org/10.1088/1742-6596/1521/2/022056"
+);
+pubs.push(p);
+
 
 // Added 20200204
 var p = new IOPConfSeries(
