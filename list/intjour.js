@@ -28,7 +28,6 @@ var p = new Journal(
 pubs.push(p);
 
 
-
 // Updated 20200204
 var p = new Journal(
 	"Rahmawati Munir, Handika Dany Rahmayanti, Riri Murniati, Dui Yanto Rahman, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
