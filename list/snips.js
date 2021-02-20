@@ -3,6 +3,22 @@
 // ------------------------------------
 
 
+
+// 20210221
+var p = new Proceeding(
+	"Sparisoma Viridi, Souvia Rahimah",
+	"Pemodelan Pertumbuhan Populasi Mikroba Multi-Jenis Tak-Berinteraksi Dengan Variasi Keadaan Awal Dan Koefisien Pertumbuhan Masing-Masing Jenis",
+	"Prosiding Simposium Nasional Inovasi dan Pembelajaran Sains 2019 (SNIPS 2019)",
+	"M. R. Arbie <i>et al</i>.",
+	"Bandung, Indonesia",
+	"8-9 Juli",
+	"2019",
+	"54-68",
+	"http://snips2019.confhub.net/kfz/files/snips_2019_sparisoma_viridi_jw8i6vrmry.pdf"
+);
+pubs.push(p);
+
+
 //----------- 20190514
 var p = new Proceeding(
 	"Ikhsan Mochammad Noor, Ariq Dhia Irfanudin, Dinda Ravi Algifari, Sparisoma Viridi, Yudha Satya Perkasa",
