@@ -3,6 +3,16 @@
 // ------------------------------------
 
 
+// Add on 20210223.0647
+var p = new Zenodo(
+	"S. Viridi",
+	"Potensial listrik bola isolator pejal homogen",
+	"4556188",
+	"23 Feb",
+	"2021"
+);
+pubs.push(p);
+
 
 // Add on 20210222.2117
 var p = new Zenodo(
