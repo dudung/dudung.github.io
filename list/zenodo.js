@@ -3,6 +3,16 @@
 // ------------------------------------
 
 
+
+// Add on 20210222.2117
+var p = new Zenodo(
+	"S. Viridi",
+	"Potensial listrik bola konduktor pejal",
+	"4555524",
+	"22 Feb",
+	"2021"
+);
+pubs.push(p);
 // Add on 20210222.1650
 var p = new Zenodo(
 	"S. Viridi",
