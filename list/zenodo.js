@@ -3,6 +3,19 @@
 // ------------------------------------
 
 
+// Add on 20210222.1650
+var p = new Zenodo(
+	"S. Viridi",
+	"Potensial listrik satu titik muatan",
+	"4554911",
+	"22 Feb",
+	"2021"
+);
+pubs.push(p);
+
+
+
+
 // Add on 20200403.1142
 var p = new Zenodo(
 	"S. Viridi, R. Kurniadi",
