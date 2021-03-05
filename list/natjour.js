@@ -17,6 +17,21 @@ var p = new Journal(
 pubs.push(p);
 
 
+// 20210305.0727
+var p = new Journal(
+	"Nazla Innaya, M. Rizqie Arbie, Sparisoma Viridi",
+	"Keraguan Mahasiswa dalam Menjawab Pertanyaan-Pertanyaan Fisika Jika Memperoleh Hasil Berupa Nilai yang Memiliki Banyak Angka di Belakang Koma",
+	"Prosiding Seminar Nasional Fisika (E-Journal) SNF2020",
+	"9",
+	"1",
+	"SNF2020PF-83 -- 90",
+	"2020",
+	"https://doi.org/10.21009/03.snf2020.02.pf.13"
+);
+pubs.push(p);
+
+
+
 // Add on 20200916 2019+1, 2020+2
 var p = new Journal(
 	"Khairil Anwar, Sparisoma Viridi, Dadi Rusdiana, Ida Kaniawati",
