@@ -2,6 +2,19 @@
 // IOP Conference Series
 // ------------------------------------
 
+// 20210309.01157
+var p = new IOPConfSeries(
+	"J. Sabaryati, L. S. Utami, A. W. Hasalah, S. Viridi",
+	"Viewing buoyant force as an application of principle of minimum potential energy",
+	"Journal of Physics: Conference Series",
+	"1816",
+	"1",
+	"012110",
+	"2021",
+	"https://doi.org/10.1088/1742-6596/1816/1/012110"
+);
+pubs.push(p);
+
 
 // 20210221.0506 -- 0549
 var p = new IOPConfSeries(
