@@ -3,6 +3,45 @@
 // ------------------------------------
 
 
+
+// 20210318.1103-1213
+var p = new AIPProceeding(
+	"Armi Susandi, Intan Taufik, Pingkan Aditiawati, Sparisoma Viridi",
+	"The relation between agent-based model and susceptible-infected-recovered model for spread of disease",
+	"The 9th National Physics Seminar, (SNF)-2020",
+	"Hadi Nasbey, Riser Fahdiran, Widyaningrum Indrasari, Esmar Budi, Fauzi Bakri, Teguh Budi Prayitno, Dewi Muliyati",
+	"2320",
+	"2021",
+	"050032",
+	"https://doi.org/10.1063/5.0038221"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
+	"Sparisoma Viridi, Suprijadi, Anggraini Barlian, Damar Rastri Adhika",
+	"Molecular dynamics (MD) method and agent-based model (ABM) in simulation of stem cell deposition on the surface with nanopattern: Current development stage of an in-house simulator",
+	"The 9th National Physics Seminar, (SNF)-2020",
+	"Hadi Nasbey, Riser Fahdiran, Widyaningrum Indrasari, Esmar Budi, Fauzi Bakri, Teguh Budi Prayitno, Dewi Muliyati",
+	"2320",
+	"2021",
+	"050043",
+	"https://doi.org/10.1063/5.0038216"
+);
+pubs.push(p);
+
+var p = new AIPProceeding(
+	"T. Suheri, S. Viridi",
+	"Constructing origin-destination matrix (ODM) using agent-based model (AMB) in multiple points commuting system",
+	"The 9th National Physics Seminar, (SNF)-2020",
+	"Hadi Nasbey, Riser Fahdiran, Widyaningrum Indrasari, Esmar Budi, Fauzi Bakri, Teguh Budi Prayitno, Dewi Muliyati",
+	"2320",
+	"2021",
+	"050033",
+	"https://doi.org/10.1063/5.0038214"
+);
+pubs.push(p);
+
+
 // 20210221.05xx-0457
 var p = new AIPProceeding(
 	"S. Viridi, V. Suendo",
