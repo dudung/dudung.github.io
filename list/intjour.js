@@ -4,14 +4,13 @@
 
 // Updated 20210220
 var p = new Journal(
-	"R. Munir, S. Viridi, M. Abdullah",
-	"Investigation of Mechanical Properties for Non-Homogeneous by Image Tracking",
+	"Rahmawati Munir, Handika Dany Rahmayanti, Nadya Amalia, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
+	"Investigation of mechanical properties for Non-Homogeneous by image tracking method",
 	"Materials Today: Proceedings",
 	"",
 	"",
-	"",
 	"2021",
-	"https://doi.org/10.1016/j.matpr.2021.8.88"
+	"https://doi.org/10.1016/j.matpr.2020.12.1158"
 );
 pubs.push(p);
 
