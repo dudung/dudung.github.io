@@ -2,6 +2,18 @@
 // AIP Conference Proceedings
 // ------------------------------------
 
+// 20210415.1054-1059
+var p = new AIPProceeding(
+	"S. Viridi, A. D. Mauluda, S. H. Pratama, Suprijadi",
+	"Simulation of cell budding and binary fission: A preliminary study using molecular dynamics and agent-based model",
+	"2020 International Conference and School on Physics in Medicine and Biosystem: Physics Contribution in Medicine and Biomedical Applications, (ICSPMB)-2020",
+	"Lukmanda Evan Lubis, Nur Aisyah Nuzulia, Nur Rahmah Hidayati",
+	"2346",
+	"2021",
+	"020010",
+	"https://doi.org/10.1063/5.0048209"
+);
+pubs.push(p);
 
 
 // 20210318.1103-1213
