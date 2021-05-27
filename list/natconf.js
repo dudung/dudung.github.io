@@ -2,6 +2,20 @@
 // National Conference
 // ------------------------------------
 
+// 20210528
+var p = new Proceeding(
+	"Nadhira Azzahra, Wafa Rastiadi, Iqbal Rahmadhan, Sparisoma Viridi",
+	"A Review on Exploring the resonant vibration of thin plates: Reconstruction of Chladni patterns and determination of resonant wave numbers Using Research Based Learning",
+	"Seminar Nasional Fisika UNJ (SNF-UNJ 2019)",
+	"Umiatin <i>et al</i>.",
+	"Jakarta, Indonesia",
+	"29 Juni",
+	"2019",
+	"ID 137",
+	"https://pdfcoffee.com/cladni-pdf-free.html"
+);
+pubs.push(p);
+
 // Add on 20180525 for three items
 var p = new Proceeding(
 	"F. W. Ramadhan, S. Viridi, F. D. E. Latief",
