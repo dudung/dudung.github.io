@@ -2,6 +2,21 @@
 // National Journal
 // ------------------------------------
 
+// 20210527.1644
+var p = new Journal(
+	"Mutahharah Hasyim, Ahmad Swandi, Sri Rahmadhanningsih, Muhammad Taqwin, Sparisoma Viridi",
+	"Pengembangan instrumen pembelajaran fisika dengan model penemuan terbimbing berbantuan simulasi interaktif dan dampaknya terhadap keterampilan proses sains siswa",
+	"Jurnal Riset dan Kajian Pendidikan Fisika",
+	"8",
+	"1",
+	"15-23",
+	"2021",
+	"http://dx.doi.org/10.12928/jrkpf.v8i1.20286"
+);
+pubs.push(p);
+
+
+
 
 // 20210220.1859
 var p = new Journal(
