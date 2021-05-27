@@ -2,7 +2,20 @@
 // National Conference
 // ------------------------------------
 
-// 20210528
+// 20210528.0551
+var p = new Proceeding(
+	"Fahmi Ali Putra, Yudha Satya Perkasa, Sparisoma Virid",
+	"Pemodelan Gerak Revolusi Planet Akibat Gravitasi Menggunakan Javascript",
+	"Seminar Nasional Fisika UIN 2019 (SeNFi 2019)",
+	"Sawitri <i>et al</i>.",
+	"Bandung, Indonesia",
+	"14 September",
+	"2019",
+	"41-45",
+	"https://senfi2.fisikauin.net/"
+);
+pubs.push(p);
+
 var p = new Proceeding(
 	"Nadhira Azzahra, Wafa Rastiadi, Iqbal Rahmadhan, Sparisoma Viridi",
 	"A Review on Exploring the resonant vibration of thin plates: Reconstruction of Chladni patterns and determination of resonant wave numbers Using Research Based Learning",
