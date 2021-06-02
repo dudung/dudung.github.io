@@ -2,14 +2,14 @@
 // International Journal
 // ------------------------------------
 
-// Updated 20210220
+// Updated 20210220, 20210602.2016
 var p = new Journal(
 	"Rahmawati Munir, Handika Dany Rahmayanti, Nadya Amalia, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
 	"Investigation of mechanical properties for Non-Homogeneous by image tracking method",
 	"Materials Today: Proceedings",
-	"",
-	"",
-	"",
+	"44",
+	"3",
+	"3415-3419",
 	"2021",
 	"https://doi.org/10.1016/j.matpr.2020.12.1158"
 );
@@ -19,9 +19,9 @@ var p = new Journal(
 	"Y. Anggraini, I. M. Sutjahja, D. Kurnia, S. Viridi",
 	"Effects of anion and alkyl chain length of cation on the thermophysical properties of imidazolium-based ionic liquid",
 	"Materials Today: Proceedings",
-	"",
-	"",
-	"",
+	"44",
+	"3",
+	"3188-3191",
 	"2021",
 	"https://doi.org/10.1016/j.matpr.2020.11.434"
 );
