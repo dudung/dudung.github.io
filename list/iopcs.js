@@ -16,6 +16,19 @@ var p = new IOPConfSeries(
 );
 pubs.push(p);
 
+// 20210624.1621
+var p = new IOPConfSeries(
+	"D. Muliyati, D. Sumardani, S. Siswoyo, S. Viridi, F. Bakri, E. Handoko, H. Permana",
+	"The simulation of granular attachment on the porous vertical surfaces",
+	"Journal of Physics: Conference Series",
+	"1869",
+	"1",
+	"012185",
+	"2021",
+	"https://doi.org/10.1088/1742-6596/1869/1/012185"
+);
+pubs.push(p);
+
 
 // 20210309.01157
 var p = new IOPConfSeries(
