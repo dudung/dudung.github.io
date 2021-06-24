@@ -2,6 +2,21 @@
 // IOP Conference Series
 // ------------------------------------
 
+
+// 20210624.1557
+var p = new IOPConfSeries(
+	"E. Trimayanti, S. N. Khotimah, I. Wibowo, S. Viridi",
+	"Determination of Motility and Charge Type of Mencit Sperm (Mus musculus) Through Study of Exposure Electrical Fields",
+	"Journal of Physics: Conference Series",
+	"1949",
+	"1",
+	"012021",
+	"2021",
+	"https://doi.org/10.1088/1742-6596/1949/1/012021"
+);
+pubs.push(p);
+
+
 // 20210309.01157
 var p = new IOPConfSeries(
 	"J. Sabaryati, L. S. Utami, A. W. Hasanah, S. Viridi",
