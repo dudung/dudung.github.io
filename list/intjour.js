@@ -2,6 +2,20 @@
 // International Journal
 // ------------------------------------
 
+// 20210629.0426
+var p = new Journal(
+	"Fenfen FendaFlorena, Ferry Faizal, Sparisoma Viridi",
+	"Experimental and simulation study of solid flows in beads mill",
+	"Advanced Powder Technology",
+	"",
+	"",
+	"",
+	"2021",
+	"https://doi.org/10.1016/j.apt.2021.05.029"
+);
+pubs.push(p);
+
+
 // Updated 20210220, 20210602.2016
 var p = new Journal(
 	"Rahmawati Munir, Handika Dany Rahmayanti, Nadya Amalia, Fisca Dian Utami, Sparisoma Viridi, Mikrajuddin Abdullah",
