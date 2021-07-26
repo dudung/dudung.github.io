@@ -4,7 +4,7 @@
 
 // 20210629.0426, update vol, no, pp on 20210721.1336
 var p = new Journal(
-	"Fenfen FendaFlorena, Ferry Faizal, Sparisoma Viridi",
+	"Fenfen Fenda Florena, Ferry Faizal, Sparisoma Viridi",
 	"Experimental and simulation study of solid flows in beads mill",
 	"Advanced Powder Technology",
 	"32",
