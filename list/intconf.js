@@ -2,6 +2,36 @@
 // International Conference
 // ------------------------------------
 
+
+// 20210805.1011 - 1034
+
+var p = new Proceeding(
+	"S. Viridi, Hendro, F. Pasila",
+	"Fast Charging Batteries Simulation based on Capacitor Model Change of Resistance Due to Internal Deposition",
+	"2018 Electrical Power, Electronics, Communications, Controls and Informatics Seminar (EECCIS)",
+	"Fakry Hario Partiansyah <i>et al</i>.",
+	"Batu, Indonesia",
+	"9-11 October",
+	"2018",
+	"96-101",
+	"https://doi.org/10.1109/EECCIS.2018.8692970"
+);
+pubs.push(p);
+
+var p = new Proceeding(
+	"S. Viridi, Sprijadi",
+	"Induced Current Simulation of One-Dimensional Vibrating Magnetic Granular Particles System",
+	"2018 2nd International Conference on Applied Electromagnetic Technology (AEMT)",
+	"M. Syamsu Iqbal <i>et al</i>.",
+	"Lombok, Indonesia",
+	"9-12 April",
+	"2018",
+	"50-56",
+	"https://doi.org/10.1109/AEMT.2018.8572401"
+);
+pubs.push(p);
+
+
 var p = new Proceeding(
 	"S. Viridi, P. Patana, S. A. Subrata, H. Hertiasa, M. Abdullah",
 	"In Searching of Trees Natural Vibration Frequency Based on Granular Particles Interactions and Vibration",
