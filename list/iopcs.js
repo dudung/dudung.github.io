@@ -3,6 +3,20 @@
 // ------------------------------------
 
 
+// 20210821.1906
+var p = new IOPConfSeries(
+	"Tatang Suheri, Mohammad Benny Alexandri, Sam'un Jaja Raharja, Margo Purnomo, Sparisoma Viridi",
+	"Interaction between Marine Sectors using System Dynamics for Patimban Deep Sea Port as a Green Port: A Proposed Model",
+	"IOP Conference Series: Earth and Environmental Science",
+	"799",
+	"1",
+	"012021",
+	"2021",
+	"https://doi.org/10.1088/1755-1315/799/1/012021"
+);
+pubs.push(p);
+
+
 // 20210624.1557
 var p = new IOPConfSeries(
 	"E. Trimayanti, S. N. Khotimah, I. Wibowo, S. Viridi",
