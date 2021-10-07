@@ -2,6 +2,19 @@
 // International Journal
 // ------------------------------------
 
+// 20211007.1605
+var p = new Journal(
+	"Yunita Anggraini, Alfriska O. Silalahi, Inge Magdalena Sutjahja, Daniel Kurnia, Sparisoma Viridi, Surjamanto Wonorahardjo",
+	"Temperature-Dependent Thermal Conductivity Measurement System for Various Heat Transfer Fluids",
+	"Instrumentation Mesure Métrologie",
+	"20",
+	"4",
+	"195-202",
+	"2021",
+	"https://doi.org/10.18280/i2m.200403"
+);
+pubs.push(p);
+
 // 20210629.0426, update vol, no, pp on 20210721.1336
 var p = new Journal(
 	"Fenfen Fenda Florena, Ferry Faizal, Sparisoma Viridi",
