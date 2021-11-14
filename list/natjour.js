@@ -2,6 +2,20 @@
 // National Journal
 // ------------------------------------
 
+// 20211114.2038
+var p = new Journal(
+	"Septian Ulan Dini, Sparisoma Viridi",
+	"In-House Software Development for Data Visualization of Random Motion Configuration of Particles in Fluid",
+	"Indonesian Journal of Physics",
+	"32",
+	"1",
+	"32-37",
+	"2021",
+	"https://ijphysics.fi.itb.ac.id/index.php/ijp/article/view/308"
+);
+pubs.push(p);
+
+
 // 20210527.1644
 var p = new Journal(
 	"Mutahharah Hasyim, Ahmad Swandi, Sri Rahmadhanningsih, Muhammad Taqwin, Sparisoma Viridi",
@@ -14,8 +28,6 @@ var p = new Journal(
 	"http://dx.doi.org/10.12928/jrkpf.v8i1.20286"
 );
 pubs.push(p);
-
-
 
 
 // 20210220.1859
