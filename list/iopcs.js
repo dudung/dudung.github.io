@@ -2,7 +2,6 @@
 // IOP Conference Series
 // ------------------------------------
 
-
 // 20211123.1712
 var p = new IOPConfSeries(
 	"Randi Rusdiana, Nurhasan, Sparisoma Viridi, Dini Fitriani",
