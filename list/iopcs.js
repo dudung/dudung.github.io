@@ -3,9 +3,9 @@
 // ------------------------------------
 
 
-// 20211123.1705
+// 20211123.1712
 var p = new IOPConfSeries(
-	"Randi Rusdiana1, Nurhasan, Sparisoma Viridi, Dini Fitriani",
+	"Randi Rusdiana, Nurhasan, Sparisoma Viridi, Dini Fitriani",
 	"Investigation the Vulnerability Potential of Landslide in Jayagiri Area Using the Geoelectric Method",
 	"Journal of Physics: Conference Series",
 	"2019",
