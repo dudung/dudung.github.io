@@ -2,6 +2,21 @@
 // National Journal
 // ------------------------------------
 
+// 20211129.1704
+var p = new Journal(
+	"Ahmad Swandi, Sri Rahmadhanningsih, Sparisoma Viridi, Inge Magdalena Sutjahja",
+	"Trial of DC Submersible Pump 12 Volt 50 Watt with Solar Power and Relationship between Water Discharge and Storage Height",
+	"Journal of Physical Science and Engineering",
+	"6",
+	"2",
+	"61-67",
+	"2021",
+	"https://dx.doi.org/10.17977/um024v6i22021p061"
+);
+pubs.push(p);
+
+
+
 // 20211114.2038
 var p = new Journal(
 	"Septian Ulan Dini, Sparisoma Viridi",
@@ -10,8 +25,7 @@ var p = new Journal(
 	"32",
 	"1",
 	"32-37",
-	"2021",
-	"https://ijphysics.fi.itb.ac.id/index.php/ijp/article/view/308"
+	"2021",	"https://ijphysics.fi.itb.ac.id/index.php/ijp/article/view/308"
 );
 pubs.push(p);
 
