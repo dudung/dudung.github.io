@@ -2,7 +2,21 @@
 // National Journal
 // ------------------------------------
 
-// 20211129.1704
+// 20211129.1711
+var p = new Journal(
+	"Ahmad Swandi, Sri Rahmadhanningsih, Risky Afandi Putri, Ahmad Suryadi, Sparisoma Viridi",
+	"Pengembangan Simulasi Interaktif Gerak Parabola Menggunakan VBA Excel dalam Pembelajaran Fisika",
+	"Jurnal Riset Pendidikan Fisika",
+	"6",
+	"1",
+	"78-85",
+	"2021",
+	"http://journal2.um.ac.id/index.php/jrpf/article/view/19639"
+);
+pubs.push(p);
+
+
+// 20211129.1708
 var p = new Journal(
 	"Ahmad Swandi, Sri Rahmadhanningsih, Sparisoma Viridi, Inge Magdalena Sutjahja",
 	"Trial of DC Submersible Pump 12 Volt 50 Watt with Solar Power and Relationship between Water Discharge and Storage Height",
@@ -14,7 +28,6 @@ var p = new Journal(
 	"https://dx.doi.org/10.17977/um024v6i22021p061"
 );
 pubs.push(p);
-
 
 
 // 20211114.2038
