@@ -2,6 +2,20 @@
 // IOP Conference Series
 // ------------------------------------
 
+// 20211129.169
+var p = new IOPConfSeries(
+	"P. Aditiawati, S. Viridi, S. Palupi, R. Rostiani, M. D. Samosir, P. D. Primaresti",
+	"Mathematical modelling of soybean var. anjasmoro plant growth",
+	"Journal of Physics: Conference Series",
+	"2072",
+	"1",
+	"012009",
+	"2021",
+	"https://doi.org/10.1088/1742-6596/2072/1/012009"
+);
+pubs.push(p);
+
+
 // 20211123.1712
 var p = new IOPConfSeries(
 	"Randi Rusdiana, Nurhasan, Sparisoma Viridi, Dini Fitriani",
