@@ -4,6 +4,19 @@
 
 // 20211129.1711
 var p = new Journal(
+	"Pariabti Palloan, Sri Rahmadhanningsih, Sparisoma Viridi, Jainuddin Jainuddin, Ahmad Swandi",
+	"Student Self-Regulated in Remote Learning With the Implementation of Local Virtual Lab Based on Online Tutorial (LVL-BOT)",
+	"Indonesian Review of Physics",
+	"4",
+	"1",
+	"20-26",
+	"2021",
+	"https://doi.org/10.12928/irip.v4i1.3783"
+);
+pubs.push(p);
+
+// 20211129.1711
+var p = new Journal(
 	"Ahmad Swandi, Sri Rahmadhanningsih, Risky Afandi Putri, Ahmad Suryadi, Sparisoma Viridi",
 	"Pengembangan Simulasi Interaktif Gerak Parabola Menggunakan VBA Excel dalam Pembelajaran Fisika",
 	"Jurnal Riset Pendidikan Fisika",
@@ -14,7 +27,6 @@ var p = new Journal(
 	"http://journal2.um.ac.id/index.php/jrpf/article/view/19639"
 );
 pubs.push(p);
-
 
 // 20211129.1708
 var p = new Journal(
