@@ -2,7 +2,7 @@
 // IOP Conference Series
 // ------------------------------------
 
-// 20211129.169
+// 20211129.1635
 var p = new IOPConfSeries(
 	"P. Aditiawati, S. Viridi, S. Palupi, R. Rostiani, M. D. Samosir, P. D. Primaresti",
 	"Mathematical modelling of soybean var. anjasmoro plant growth",
