@@ -3,8 +3,23 @@
 // ------------------------------------
 
 
-// 20210805.1011 - 1034
+// 20211202.1430-1510
+var p = new Proceeding(
+	"Aas Wasri Hasanah, Isworo Pujotomo, Rinna Hariyati, Muchamad Nur Qosim, Johri Sabaryati, Sparisoma Viridi",
+	"Modeling of the Relation of SoC, SoH, DoD for VRLA Battery of Solar Power Plant in IT-PLN",
+	"Proceedings of the International Conference on Innovation in Science and Technology (ICIST 2020)",
+	"Ade Gafar Abdullah <i>et al</i>.",
+	"Semarang, Indonesia",
+	"17 December",
+	"2020",
+	"24-28",
+	"https://doi.org/10.2991/aer.k.211129.006"
+);
+pubs.push(p);
 
+
+
+// 20210805.1011 - 1034
 var p = new Proceeding(
 	"S. Viridi, Hendro, F. Pasila",
 	"Fast Charging Batteries Simulation based on Capacitor Model Change of Resistance Due to Internal Deposition",
