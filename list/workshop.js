@@ -2,6 +2,19 @@
 // Workshop
 // ------------------------------------
 
+// 20220308 0918-0933
+var p = new Workshop(
+	"Sparisoma Viridi, Ahmad Swandi",
+	"Sekilas tentang materi pembelajaran sains berbasis web",
+	"Webinar Nasional: Literasi dan Inovasi Digital dalam Pembelajaran",
+	"Makassar, Indonesia",
+	"27 Desember",
+	"2021",
+	"https://doi.org/10.5281/zenodo.5806386"
+);
+pubs.push(p);
+
+
 // Add on 20171213.0653+
 var p = new Workshop(
 	"S. Viridi, J. Halid, T. Kristianti, L. R. Prastika",

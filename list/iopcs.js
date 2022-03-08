@@ -2,6 +2,20 @@
 // IOP Conference Series
 // ------------------------------------
 
+// 20220308.1132-1142
+var p = new IOPConfSeries(
+	"Johri Sabaryati, Sparisoma Viridi, Linda Sekar Utami, Zulkarnain, M. Isnaini",
+	"Developing Motion Sensor Experiments in Problem Based Learning for Students’ HOTS",
+	"Advances in Social Science, Education and Humanities Research",
+	"640",
+	"1",
+	"80-84",
+	"2022",
+	"https://dx.doi.org/10.2991/assehr.k.220129.015"
+);
+pubs.push(p);
+
+
 // 20211129.1635
 var p = new IOPConfSeries(
 	"P. Aditiawati, S. Viridi, S. Palupi, R. Rostiani, M. D. Samosir, P. D. Primaresti",

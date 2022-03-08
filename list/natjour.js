@@ -2,6 +2,47 @@
 // National Journal
 // ------------------------------------
 
+
+// 20220308 1115
+var p = new Journal(
+	"Natalia Eka Prasetia, Ramadhani Eka Putra, Sparisoma Viridi",
+	"Rancangan Mini Ekosistem bagi Budi Daya Ikan Nila (Oreochromis niloticus) dan Tanaman Genjer (Limnocharis flava) di dalam Ember yang Dilengkapi dengan Sistem Peringatan Amonia",
+	"Jurnal Ilmu Pertanian Indonesia",
+	"27",
+	"1",
+	"95-102",
+	"2022",
+	"http://dx.doi.org/10.18343/jipi.27.1.95"
+);
+pubs.push(p);
+
+// 20220308 1115
+var p = new Journal(
+	"Ahmad Swandi, Sri Rahmadhanningsih, Sparisoma Viridi",
+	"Menganalisis Hubungan Debit Pompa Listrik Submersible DC 12 volt terhadap Ketinggian Penampungan Air Melalui Pembelajaran Berbasis Proyek",
+	"Jurnal Pendidikan Fisika",
+	"9",
+	"2",
+	"83-91",
+	"2021",
+	"http://dx.doi.org/10.24252/jpf.v9i2.20710"
+);
+pubs.push(p);
+
+// 20220308 0942
+var p = new Journal(
+	"Ahmad Swandi, Sri Rahmadhanningsih, Nurhayati Nurhayati, Susalti Nur Arsyad, Asdar Asdar, Bunga Dara Amin, Sparisoma Viridi",
+	"Development Training of Android-Based Interactive Learning Application as Supporting Media in Online Learning",
+	"International Journal of Public Devotion",
+	"4",
+	"2",
+	"52-59",
+	"2021",
+	"http://dx.doi.org/10.26737/ijpd.v4i2.2812"
+);
+pubs.push(p);
+
+
 // 20211129.1711
 var p = new Journal(
 	"Pariabti Palloan, Sri Rahmadhanningsih, Sparisoma Viridi, Jainuddin Jainuddin, Ahmad Swandi",

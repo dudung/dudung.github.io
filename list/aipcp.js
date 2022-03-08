@@ -2,6 +2,7 @@
 // AIP Conference Proceedings
 // ------------------------------------
 
+
 // 20210415.1054-1059
 var p = new AIPProceeding(
 	"S. Viridi, A. D. Mauluda, S. H. Pratama, Suprijadi",
