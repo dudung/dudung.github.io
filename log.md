@@ -447,8 +447,9 @@ customize
 post.html
 
 Menu belum muncul
-
-
+nama berkas dan di _config.yml tidak konsisten.
+Done
+1131
 
 --
 20210827 Test access, 0847 can pull.
