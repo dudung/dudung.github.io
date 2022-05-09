@@ -140,6 +140,8 @@ Done installing documentation for bundler after 0 seconds
 L:\home\dudung.github.io>jekyll -v
 jekyll 4.2.2
 
+cd
+
 L:\home>jekyll new dudung.github.io
 Running bundle install in L:/home/dudung.github.io...
   Bundler: Fetching gem metadata from https://rubygems.org/..........
@@ -178,6 +180,226 @@ Running bundle install in L:/home/dudung.github.io...
   Bundler: Bundle complete! 7 Gemfile dependencies, 31 gems now installed.
   Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
 New jekyll site installed in L:/home/dudung.github.io.
+
+L:\home\dudung.github.io>bundle exec jekyll serve
+Configuration file: L:/home/dudung.github.io/_config.yml
+            Source: L:/home/dudung.github.io
+       Destination: L:/home/dudung.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+                    done in 5.118 seconds.
+  Please add the following to your Gemfile to avoid polling for changes:
+    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+ Auto-regeneration: enabled for 'L:/home/dudung.github.io'
+                    ------------------------------------------------
+      Jekyll 4.2.2   Please append `--trace` to the `serve` command
+                     for any additional information or backtrace.
+                    ------------------------------------------------
+C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in `require': cannot load such file -- webrick (LoadError)
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in `<top (required)>'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve.rb:179:in `require_relative'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve.rb:179:in `setup'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve.rb:100:in `process'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/command.rb:91:in `each'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/exe/jekyll:15:in `<top (required)>'
+        from C:/Ruby31-x64/bin/jekyll:32:in `load'
+        from C:/Ruby31-x64/bin/jekyll:32:in `<main>'
+
+
+https://jekyllrb.com/docs/
+If you are using Ruby version 3.0.0 or higher, step 5 may fail. You may fix it by adding webrick to your dependencies: bundle add webrick
+
+https://github.com/github/pages-gem/issues/752
+
+
+L:\home\dudung.github.io>bundle add webrick
+Fetching gem metadata from https://rubygems.org/.........
+Resolving dependencies...
+Fetching gem metadata from https://rubygems.org/.........
+Resolving dependencies...
+Using bundler 2.3.13
+Using public_suffix 4.0.7
+Using colorator 1.1.0
+Using concurrent-ruby 1.1.10
+Using eventmachine 1.2.7
+Using http_parser.rb 0.8.0
+Using ffi 1.15.5 (x64-mingw-ucrt)
+Using forwardable-extended 2.6.0
+Using rexml 3.2.5
+Using rb-fsevent 0.11.1
+Using liquid 4.0.3
+Using rouge 3.28.0
+Using safe_yaml 1.0.5
+Using mercenary 0.4.0
+Using unicode-display_width 1.8.0
+Using addressable 2.8.0
+Using em-websocket 0.5.3
+Fetching webrick 1.7.0
+Using i18n 1.10.0
+Using sassc 2.4.0
+Using rb-inotify 0.10.1
+Using kramdown 2.4.0
+Using pathutil 0.16.2
+Using terminal-table 2.0.0
+Using jekyll-sass-converter 2.2.0
+Using listen 3.7.1
+Using kramdown-parser-gfm 1.1.0
+Using jekyll-watch 2.2.1
+Using jekyll 4.2.2
+Using jekyll-feed 0.16.0
+Using jekyll-seo-tag 2.8.0
+Using minima 2.5.1
+Installing webrick 1.7.0
+
+L:\home\dudung.github.io>bundle exec jekyll serve
+Configuration file: L:/home/dudung.github.io/_config.yml
+            Source: L:/home/dudung.github.io
+       Destination: L:/home/dudung.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+                    done in 3.192 seconds.
+  Please add the following to your Gemfile to avoid polling for changes:
+    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+ Auto-regeneration: enabled for 'L:/home/dudung.github.io'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+[2022-05-09 06:26:57] ERROR `/favicon.ico' not found.
+
+  Please add the following to your Gemfile to avoid polling for changes:
+    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+
+gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+L:\home\dudung.github.io>bundle exec jekyll serve
+
+[!] There was an error parsing `Gemfile`: You cannot specify the same gem twice with different version requirements.
+You specified: wdm (~> 0.1.1) and wdm (>= 0.1.0). Bundler cannot continue.
+
+ #  from L:/home/dudung.github.io/Gemfile:30
+ #  -------------------------------------------
+ #
+ >  gem "webrick", "~> 1.7"
+ #  source "https://rubygems.org"
+ #  -------------------------------------------
+
+#gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+L:\home\dudung.github.io>bundle exec jekyll serve
+Could not find gem 'wdm (>= 0.1.0)' in locally installed gems.
+Run `bundle install` to install missing gems.
+
+L:\home\dudung.github.io>bundle install
+Fetching gem metadata from https://rubygems.org/.........
+Resolving dependencies...
+Using bundler 2.3.13
+Using public_suffix 4.0.7
+Using colorator 1.1.0
+Using concurrent-ruby 1.1.10
+Using eventmachine 1.2.7
+Using http_parser.rb 0.8.0
+Using ffi 1.15.5 (x64-mingw-ucrt)
+Using forwardable-extended 2.6.0
+Using rb-fsevent 0.11.1
+Using rexml 3.2.5
+Using liquid 4.0.3
+Using mercenary 0.4.0
+Using rouge 3.28.0
+Using safe_yaml 1.0.5
+Using unicode-display_width 1.8.0
+Using webrick 1.7.0
+Using addressable 2.8.0
+Using em-websocket 0.5.3
+Fetching wdm 0.1.1
+Using i18n 1.10.0
+Using sassc 2.4.0
+Using rb-inotify 0.10.1
+Using kramdown 2.4.0
+Using pathutil 0.16.2
+Using terminal-table 2.0.0
+Using jekyll-sass-converter 2.2.0
+Using listen 3.7.1
+Using kramdown-parser-gfm 1.1.0
+Using jekyll-watch 2.2.1
+Using jekyll 4.2.2
+Using jekyll-feed 0.16.0
+Using jekyll-seo-tag 2.8.0
+Using minima 2.5.1
+Installing wdm 0.1.1 with native extensions
+Bundle complete! 8 Gemfile dependencies, 33 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is installed.
+
+L:\home\dudung.github.io>bundle exec jekyll serve
+Configuration file: L:/home/dudung.github.io/_config.yml
+            Source: L:/home/dudung.github.io
+       Destination: L:/home/dudung.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+                    done in 4.952 seconds.
+ Auto-regeneration: enabled for 'L:/home/dudung.github.io'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+
+L:\home\dudung.github.io>bundle exec jekyll serve --livereload
+Configuration file: L:/home/dudung.github.io/_config.yml
+            Source: L:/home/dudung.github.io
+       Destination: L:/home/dudung.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+                    done in 3.406 seconds.
+ Auto-regeneration: enabled for 'L:/home/dudung.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+
+L:\home\dudung.github.io>bundle exec jekyll serve --livereload
+Configuration file: L:/home/dudung.github.io/_config.yml
+            Source: L:/home/dudung.github.io
+       Destination: L:/home/dudung.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+                    done in 3.406 seconds.
+ Auto-regeneration: enabled for 'L:/home/dudung.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2022-05-09 06:39:20
+                    log.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.4334297 seconds.
+
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2022-05-09 06:40:27
+                    _posts/2022-05-09-hello.markdown
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.3838073 seconds.
+
+      Regenerating: 1 file(s) changed at 2022-05-09 06:40:42
+                    _posts/2022-05-09-hello.markdown
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.3568273 seconds.
+
+      Regenerating: 1 file(s) changed at 2022-05-09 06:40:44
+                    _posts/2022-05-09-hello.markdown
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.307381 seconds.
+
+yaml file edit need restart sever
 
 
 
