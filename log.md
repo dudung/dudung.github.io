@@ -436,8 +436,9 @@ C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:143
         from C:/Ruby31-x64/bin/jekyll:32:in `<main>'
 
 
- 
+Add _authors folder
 
+https://jekyllrb.com/docs/step-by-step/09-collections/
 
 --
 20210827 Test access, 0847 can pull.

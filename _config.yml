@@ -36,6 +36,10 @@ plugins:
 #markdown: kramdown
 #highlighter: rouge
 
+# https://jekyllrb.com/docs/step-by-step/09-collections/
+collections:
+  authors:
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
