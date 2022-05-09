@@ -19,3 +19,13 @@ paste it to JavaScript console and press Enter. Then these lines
 are obtained. Image size is `390px` &times; `90px`.
 
 This is actually the first post after Jekyll was reinstalled.
+
+```python
+s = "Hello, World!"
+for c in s:
+  pass
+  
+print(c, end=' ')
+```
+
+Can you guest the what output is? You can try it at [OneCompiler](https://onecompiler.com/python/3y3h6qphp).
