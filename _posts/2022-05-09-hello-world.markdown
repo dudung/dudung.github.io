@@ -18,4 +18,4 @@ paste it to JavaScript console and press Enter. Then these lines
 
 are obtained. Image size is `390px` &times; `90px`.
 
-This is actually the first post after Jekyll was installed.
+This is actually the first post after Jekyll was reinstalled.

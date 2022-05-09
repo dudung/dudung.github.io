@@ -451,6 +451,8 @@ nama berkas dan di _config.yml tidak konsisten.
 Done
 1131
 
+1312 Cukup membuat berkas .markdown dan akan dibaca secara otomatis oleh home.html sebabagai salah satu _layouts
+
 --
 20210827 Test access, 0847 can pull.
 
