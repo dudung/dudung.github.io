@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: dudung.github.io
+title: bridge understanding gap
 email: dudung@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A GitHub page for aggregate of my writings.
+  A GitHub page for aggregate of my writings while trying to bridge my understanding gap
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 6unpnp
@@ -31,6 +31,10 @@ github_username:  dudung
 theme: minima
 plugins:
   - jekyll-feed
+
+# works withou it https://linuxtus.com/jekyll-highlight-syntax/ 16 Nov 2021
+#markdown: kramdown
+#highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.

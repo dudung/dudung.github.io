@@ -399,8 +399,44 @@ LiveReload address: http://127.0.0.1:35729
        Jekyll Feed: Generating feed for posts
                     ...done in 0.307381 seconds.
 
-yaml file edit need restart sever
+yaml file edit need restart sever  --> already in _config.yml file
 
+Edit yml
+
+https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/
+
+markdown: kramdown
+highlighter: rouge
+  input: GFM
+
+restart
+
+L:\home\dudung.github.io>bundle exec jekyll serve --livereload
+jekyll 4.2.2 | Error:  (L:/home/dudung.github.io/_config.yml): mapping values are not allowed in this context at line 37 column 8
+C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:143:in `parse': (L:/home/dudung.github.io/_config.yml): mapping values are not allowed in this context at line 37 column 8 (Psych::SyntaxError)
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:143:in `load'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:157:in `block in load_file'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:157:in `open'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:157:in `load_file'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/configuration.rb:129:in `safe_load_file'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/configuration.rb:167:in `read_config_file'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/configuration.rb:198:in `block in read_config_files'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/configuration.rb:195:in `each'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/configuration.rb:195:in `read_config_files'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll.rb:118:in `configuration'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/command.rb:44:in `configuration_from_options'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve.rb:83:in `block (2 levels) in init_with_program'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/exe/jekyll:15:in `<top (required)>'
+        from C:/Ruby31-x64/bin/jekyll:32:in `load'
+        from C:/Ruby31-x64/bin/jekyll:32:in `<main>'
+
+
+ 
 
 
 --
