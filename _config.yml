@@ -39,6 +39,7 @@ plugins:
 # https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
   authors:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
