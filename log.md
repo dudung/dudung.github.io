@@ -440,6 +440,13 @@ Add _authors folder
 
 https://jekyllrb.com/docs/step-by-step/09-collections/
 
+
+see C:\Ruby31-x64\lib\ruby\gems\3.1.0\gems\minima-2.5.1 for customization
+
+customize
+post.html
+
+
 --
 20210827 Test access, 0847 can pull.
 
