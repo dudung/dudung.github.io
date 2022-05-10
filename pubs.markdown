@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Pubs
 ---
 <h1>Publications</h1>
 
