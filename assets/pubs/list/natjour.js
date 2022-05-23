@@ -2,6 +2,18 @@
 // National Journal
 // ------------------------------------
 
+// 20220523 2043
+var p = new Journal(
+	"Ahmad Swandi, Sri Rahmadhanningsih, Bunga Dara Amin, Nurhayati, Sparisoma Viridi, Chi-Hung Chang",
+	"Project-Based Learning on Laboratory Experiment about Refraction and Total Internal Reflection of Different Types of Materials",
+	"Jurnal Ilmu Pendidikan Fisika",
+	"7",
+	"2",
+	"102-111",
+	"2022",
+	"https://dx.doi.org/10.26737/jipf.v7i2.2257"
+);
+pubs.push(p);
 
 // 20220308 1115
 var p = new Journal(
