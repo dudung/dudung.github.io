@@ -2,6 +2,19 @@
 // International Journal
 // ------------------------------------
 
+// 20220609.1831
+var p = new Journal(
+	"Yunita Anggraini, Akhmad Yusuf, Surjani Wonorahardjo, Daniel Kurnia, Sparisoma Viridi, Inge Magdalena Sutjahja",
+	"Role of C2 methylation and anion type on the physicochemical and thermal properties of imidazolium-based ionic liquids",
+	"Arabian Journal of Chemistry",
+	"15",
+	"8",
+	"103963",
+	"2022",
+	"https://doi.org/10.1016/j.arabjc.2022.103963"
+);
+pubs.push(p);
+
 // 20211007.1605
 var p = new Journal(
 	"Yunita Anggraini, Alfriska O. Silalahi, Inge Magdalena Sutjahja, Daniel Kurnia, Sparisoma Viridi, Surjamanto Wonorahardjo",
