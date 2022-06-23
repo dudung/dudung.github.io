@@ -2,6 +2,32 @@
 // IOP Conference Series
 // ------------------------------------
 
+// 20220624.0608-0614
+var p = new IOPConfSeries(
+	"Putri Mustika Widartiningsih, Muhammad Iqbal Rahmadhan Putra, Dimas Praja Purwa Aji, Aufa Nu’man Fadhilah Rudiawan, Sparisoma Viridi",
+	"Experimental investigation of pile characteristics of non-spherical particles mixtures: pile height and angle of repose",
+	"Journal of Physics: Conference Series",
+	"2243",
+	"1",
+	"012079",
+	"2022",
+	"https://doi.org/10.1088/1742-6596/2243/1/012079"
+);
+pubs.push(p);
+
+var p = new IOPConfSeries(
+	"Ass Wasri Hasanah, Adhitya, Sumardi Sunarya, Sparisoma Viridi",
+	"Charge and Discharge of Capasitors: Revisiting the Analogy with Water in Connected Containers",
+	"Journal of Physics: Conference Series",
+	"2243",
+	"1",
+	"012073",
+	"2022",
+	"https://doi.org/10.1088/1742-6596/2243/1/012073"
+);
+pubs.push(p);
+
+
 // 20220308.1132-1142
 var p = new IOPConfSeries(
 	"Johri Sabaryati, Sparisoma Viridi, Linda Sekar Utami, Zulkarnain, M. Isnaini",
