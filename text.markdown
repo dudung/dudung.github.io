@@ -16,3 +16,5 @@ title: Text
 + <https://sparisoma-viridi.blogspot.com/>
 + <https://dudunq.blogspot.com/>
 + <http://viridi.worpress.com/>
+
++ [bugx](/bugx)
