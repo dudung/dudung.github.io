@@ -17,5 +17,6 @@ title: Text
 + <https://dudunq.blogspot.com/>
 + <http://viridi.worpress.com/>
 + <https://www.slideshare.net/sparisoma>
++ <https://zenodo.org/search?page=2&size=20&q=%22Sparisoma%20Viridi%22%20%22Viridi,%20Sparisoma%22>
 
 + [bugx](/bugx)
