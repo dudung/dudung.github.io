@@ -9,7 +9,7 @@ var p = new Journal(
 	"Malaccha: An R-based end-to-end Markov transition matrix extraction for land cover datasets",
 	"SoftwareX",
 	"21",
-	"-",
+	"",
 	"101315",
 	"2023",
 	"https://doi.org/10.1016/j.softx.2023.101315"
