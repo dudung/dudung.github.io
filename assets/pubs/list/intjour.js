@@ -2,6 +2,21 @@
 // International Journal
 // ------------------------------------
 
+
+// 20230327.0956-0958
+var p = new Journal(
+	"Winda Wijayasari, Faizal Immaddudin Wira Rohmat, Sparisoma Viridi",
+	"Malaccha: An R-based end-to-end Markov transition matrix extraction for land cover datasets",
+	"SoftwareX",
+	"21",
+	"-",
+	"101315",
+	"2023",
+	"https://doi.org/10.1016/j.softx.2023.101315"
+);
+pubs.push(p);
+
+
 // 20220609.1831
 var p = new Journal(
 	"Yunita Anggraini, Akhmad Yusuf, Surjani Wonorahardjo, Daniel Kurnia, Sparisoma Viridi, Inge Magdalena Sutjahja",
