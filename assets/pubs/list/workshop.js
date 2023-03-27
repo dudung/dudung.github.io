@@ -2,6 +2,20 @@
 // Workshop
 // ------------------------------------
 
+
+// 20230327 0920-
+var p = new Workshop(
+	"Sparisoma Viridi, Agus Suharjono Ekomadyo, Rachmadin Ismail",
+	"Writing Has Never Been Easier: Penulisan Jurnal Ilmiah",
+	"Sekolah Ilmiah Pascasarja 3",
+	"Bandung, Indonesia",
+	"31 Agustus",
+	"2019",
+	"http://dx.doi.org/10.17605/osf.io/gp236"
+);
+pubs.push(p);
+
+
 // 20220308 0918-0933
 var p = new Workshop(
 	"Sparisoma Viridi, Ahmad Swandi",
