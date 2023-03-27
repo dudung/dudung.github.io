@@ -3,7 +3,7 @@
 // ------------------------------------
 
 
-// 20230327 0920-
+// 20230327 0920-0927 (not yet refresed, push again online)
 var p = new Workshop(
 	"Sparisoma Viridi, Agus Suharjono Ekomadyo, Rachmadin Ismail",
 	"Writing Has Never Been Easier: Penulisan Jurnal Ilmiah",
