@@ -3,11 +3,23 @@
 // ------------------------------------
 
 
+// 20230327 0939-0942
+var p = new Workshop(
+	"Sparisoma Viridi",
+	"Memotivasi Diri untuk Menulis Artikel Ilmiah",
+	"Sekolah Ilmiah Pascasarjana 3",
+	"Bandung, Indonesia",
+	"15 September",
+	"2018",
+	"http://dx.doi.org/10.17605/osf.io/g3vhs"
+);
+pubs.push(p);
+
 // 20230327 0920-0927 (not yet refresed, push again online)
 var p = new Workshop(
 	"Sparisoma Viridi, Agus Suharjono Ekomadyo, Rachmadin Ismail",
 	"Writing Has Never Been Easier: Penulisan Jurnal Ilmiah",
-	"Sekolah Ilmiah Pascasarja 3",
+	"Sekolah Ilmiah Pascasarjana 3",
 	"Bandung, Indonesia",
 	"31 Agustus",
 	"2019",
@@ -67,7 +79,7 @@ pubs.push(p);
 var p = new Workshop(
 	"S. Viridi, B. Yuliarto",
 	"Journal Writing",
-	"Sekolah Ilmiah Pascasarja 2",
+	"Sekolah Ilmiah Pascasarjana 2",
 	"Bandung, Indonesia",
 	"29 April",
 	"2017",
