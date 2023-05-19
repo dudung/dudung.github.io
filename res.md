@@ -1,5 +1,5 @@
 # 2023
-&nbsp; | &nbsp;
+repository | description
 :- | :-
 [`land-subsidence-sim`](https://github.com/dudung/land-subsidence-sim) | Study land subsidence with observation and simulation 
 [`ml-for-bulk-modulus`](https://github.com/dudung/ml-for-bulk-modulus) | Machine learning in finding materials bulk modulus
