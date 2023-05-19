@@ -1,8 +1,7 @@
-# 2023
+`2023`<br>
 
-&nbsp; | &nbsp;
-:- | :-
 [`land-subsidence-sim`](https://github.com/dudung/land-subsidence-sim) | Study land subsidence with observation and simulation 
+:- | :-
 [`ml-for-bulk-modulus`](https://github.com/dudung/ml-for-bulk-modulus) | Machine learning in finding materials bulk modulus
 [`peat-land-gstar-kriging`](https://github.com/dudung/peat-land-gstar-kriging) | Time-space model for peat land with gstar-kriging
 [`filter-efficiency-model`](https://github.com/dudung/filter-efficiency-model) | Model for filter efficiency as function of particle size 
